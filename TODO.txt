@@ -1,0 +1,6 @@
+1. reload table A, B, AllTuplePairs
+2. Retrain on a sampe to get random foreest model
+3. Apply RF to AllTuplePairs and save matched tuples to one file and unmatched to another?
+4. Write schema mapper to get new table from matched pairs. Think of which value to use for each field.
+5. Add unmatched tuples from A and B to theis table, same schema
+6. Analysis
