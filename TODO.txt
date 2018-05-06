@@ -1,7 +1,9 @@
+#remember scripts are in python2
 1. reload table A, B, AllTuplePairs
-2. Retrain on a sampe to get random foreest model
+2. Retrain on a sample to get random foreest model
 3. Apply RF to AllTuplePairs and save matched tuples to one file and unmatched to another?
 4. Write schema mapper to get new table from matched pairs. Think of which value to use for each field.
+<<<<<<< HEAD
 5. Add unmatched tuples from A and B to theis table, same schema
 6. Analysis
 
@@ -15,3 +17,7 @@ mpaa- longer one if it exists else anyways it is -1
 runtime- remove string. takes the larger number, put -1 if both -1
 genres- split on comma and union
 gross- change format million, full numbers and -1 and #, comapre value after removing $ sign, take the higher value
+=======
+5. Add unmatched tuples from A and B to this table, same schema
+6. Analysis
+>>>>>>> aadfdc59963270062579f481315c727f9de7071c
