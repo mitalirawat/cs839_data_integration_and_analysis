@@ -4,3 +4,14 @@
 4. Write schema mapper to get new table from matched pairs. Think of which value to use for each field.
 5. Add unmatched tuples from A and B to theis table, same schema
 6. Analysis
+
+A- IMDB, B= numbers M= matched table
+merging data
+- stars--> split on comma and union
+director- merge names-longer? or how else-  split on comma and union
+title- longer
+date of release- month and year- if A val exists, take from A else from B
+mpaa- longer one if it exists else anyways it is -1
+runtime- remove string. takes the larger number, put -1 if both -1
+genres- split on comma and union
+gross- change format million, full numbers and -1 and #, comapre value after removing $ sign, take the higher value
