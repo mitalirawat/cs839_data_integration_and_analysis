@@ -3,15 +3,18 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3547,Home for the Holidays,22,Home for the Holidays
 502,Hot Fuzz,36,Hot Fuzz
 3688,Drop Dead Gorgeous,57,Drop Dead Gorgeous
+3517,Bye Bye Birdie,98,Bye Bye Birdie
 2558,The Butterfly Effect,123,The Butterfly Effect
 4100,Mystic Pizza,135,Mystic Pizza
 1135,Mystic River,139,Mystic River
 114,Butch Cassidy and the Sundance Kid,141,Butch Cassidy and the Sundance Kid
+1289,Mystery Train,151,Mystery Train
 2498,Mystery Science Theater 3000: The Movie,154,Mystery Science Theatre 3000
 4076,Mystery Team,156,Mystery Team
 3168,Mystery Men,157,Mystery Men
 3222,"Mystery, Alaska",160,"Mystery, Alaska"
 3440,My Week with Marilyn,192,My Week with Marilyn
+3591,Bus Stop,194,Bus Stop
 1822,Burn After Reading,234,Burn After Reading
 1754,My Own Private Idaho,245,My Own Private Idaho
 2296,Buried,256,Buried
@@ -25,21 +28,34 @@ ltable_id,ltable_title,rtable_id,rtable_title
 1186,A Bug's Life,348,A Bug's Life
 3556,Buffy the Vampire Slayer,349,Buffy the Vampire Slayer
 1540,Buffalo '66,354,Buffalo '66
+1975,The Buddy Holly Story,376,The Buddy Holly Story
+1760,My Favorite Year,386,My Favorite Year
 349,My Fair Lady,401,My Fair Lady
 3314,The Bucket List,411,The Bucket List
+1196,My Dinner with Andre,418,My Dinner with Andre
 582,My Cousin Vinny,442,My Cousin Vinny
 2445,Brubaker,462,Brubaker
 2025,Bruce Almighty,465,Bruce Almighty
+2613,My Bodyguard,470,My Bodyguard
 2556,My Blue Heaven,472,My Blue Heaven
+3982,My Best Friend's Wedding,482,My Best Friend's Wedding
 3194,Brothers,512,Brothers
+2600,Mutiny on the Bounty,528,Mutiny on The Bounty
 2617,The Brother from Another Planet,538,The Brother from Another Planet
 645,The Brood,549,The Brood
 2186,Brooklyn,555,Brooklyn
+1731,The Music Man,562,The Music Man
 1490,A Bronx Tale,569,A Bronx Tale
 2655,Broken Flowers,600,Broken Flowers
+1977,Murmur of the Heart,604,Murmur of the Heart
+3732,Murderball,612,Murderball
+1314,Murder on the Orient Express,615,Murder on the Orient Express
 822,Brokeback Mountain,632,Brokeback Mountain
 2938,Murder in the First,637,Murder in the First
+599,Murder by Death,643,Murder by Death
+762,Broadway Danny Rose,649,Broadway Danny Rose
 825,Broadcast News,655,Broadcast News
+1798,The Muppets Take Manhattan,664,The Muppets Take Manhattan
 1708,The Muppets,667,The Muppets
 2051,Bringing Out the Dead,670,Bringing Out The Dead
 3427,Muppet Treasure Island,678,Muppet Treasure Island
@@ -56,20 +72,27 @@ ltable_id,ltable_title,rtable_id,rtable_title
 2374,The Bridges of Madison County,725,The Bridges of Madison County
 1021,Mulholland Drive,738,Mulholland Drive
 1643,A Bridge Too Far,741,A Bridge Too Far
+835,The Bridge on the River Kwai,747,The Bridge on the River Kwai
 1852,Bridge of Spies,754,Bridge of Spies
 1850,Bridesmaids,755,Bridesmaids
 1610,Mulan,760,Mulan
 897,Bride of Frankenstein,776,Bride of Frankenstein
+2030,Pride & Prejudice,782,Bride & Prejudice
 2721,Brewster's Millions,800,Brewster's Millions
 1350,Much Ado About Nothing,812,Much Ado About Nothing
+1968,Mrs. Miniver,839,Mrs. Miniver
 3960,Mrs Brown,849,Mrs. Brown
 1224,Mrs. Doubtfire,851,Mrs. Doubtfire
 602,Breaking the Waves,867,Breaking the Waves
+243,Mr. Smith Goes to Washington,873,Mr. Smith Goes To Washington
+88,Breaking Away,890,Breaking Away
 3515,Breakfast on Pluto,898,Breakfast on Pluto
 275,The Breakfast Club,900,The Breakfast Club
+197,Breakfast at Tiffany's,901,Breakfast at Tiffany's
 2459,Mr. Mom,905,Mr. Mom
 2893,Breakdown,918,Breakdown
 1942,Mr. Holland's Opus,931,Mr. Hollandâ€™s Opus
+397,Mr. Deeds Goes to Town,936,Mr. Deeds Goes To Town
 3814,Cyrus,946,Cyrus
 193,Brazil,955,Brazil
 2766,Breach,956,Breach
@@ -79,19 +102,30 @@ ltable_id,ltable_title,rtable_id,rtable_title
 2853,The Brave Little Toaster,999,The Brave Little Toaster
 2386,Brave,1003,Brave
 1694,Moulin Rouge!,1065,Moulin Rouge
+3672,Brainstorm,1091,Brainstorm
 1698,The Motorcycle Diaries,1102,The Motorcycle Diaries
 740,Boyz n the Hood,1136,Boyz n the Hood
+3387,Cujo,1162,Cujo
+1306,The Boys from Brazil,1184,The Boys from Brazil
 1049,Boys Don't Cry,1189,Boys Don't Cry
 4167,Mother,1192,Mother
+1971,Motel Hell,1195,Motel Hell
 285,Boyhood,1212,Boyhood
+3142,Mothra vs. Godzilla,1214,Mothra vs. Godzilla
 2732,A Most Violent Year,1226,A Most Violent Year
 3139,The Boy in the Striped Pajamas,1253,The Boy in the Striped Pyjamas
 1311,The Most Dangerous Game,1255,The Most Dangerous Game
+1982,The Mosquito Coast,1260,The Mosquito Coast
+4062,Moscow on the Hudson,1263,Moscow on the Hudson
 1884,The Crying Game,1268,The Crying Game
+4121,A Cry in the Dark,1275,A Cry in the Dark
 3299,Cry-Baby,1280,Cry-Baby
+3791,Cry Freedom,1281,Cry Freedom
 3311,The Boxer,1295,The Boxer
+2608,Cruising,1324,Cruising
 3342,Bowfinger,1329,Bowfinger
 2170,Bowling for Columbine,1330,Bowling for Columbine
+2452,The Bounty,1337,The Bounty
 331,The Bourne Supremacy,1338,The Bourne Supremacy
 224,The Bourne Identity,1339,The Bourne Identity
 565,The Bourne Ultimatum,1341,The Bourne Ultimatum
@@ -101,6 +135,7 @@ ltable_id,ltable_title,rtable_id,rtable_title
 1577,The Crow,1370,The Crow
 1735,Bound,1382,Bound
 222,"Crouching Tiger, Hidden Dragon",1398,"Crouching Tiger, Hidden Dragon"
+3310,Crossroads,1400,Crossroads
 1554,The Curious Case of Benjamin Button,1410,The Curious Case of Benjamin Button
 486,Bottle Rocket,1418,Bottle Rocket
 1641,Moonstruck,1432,Moonstruck
@@ -109,7 +144,11 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3103,The Crossing Guard,1444,The Crossing Guard
 423,Moon,1478,Moon
 1392,Born on the Fourth of July,1512,Born on the Fourth of July
+598,The Meaning of Life,1524,Monty Python's The Meaning of Life
 1981,Crocodile Dundee,1536,Crocodile Dundee
+3613,Critters,1539,Critters
+1914,Monty Python Live at the Hollywood Bowl,1556,Monty Python Live at the Hollywood Bowl
+214,Monty Python and the Holy Grail,1560,Monty Python and the Holy Grail
 1291,Crimson Tide,1580,Crimson Tide
 4220,Crimson Peak,1586,Crimson Peak
 2125,Away We Go,1610,Away We Go
@@ -119,56 +158,83 @@ ltable_id,ltable_title,rtable_id,rtable_title
 1963,Monsters University,1651,Monsters University
 2,"Monsters, Inc.",1652,"Monsters, Inc."
 3637,Monsters,1657,Monsters
+1024,The Monster Squad,1659,The Monster Squad
 1583,The Aviator,1692,The Aviator
 2595,Creepshow 2,1697,Creepshow 2
+1445,Creepshow,1700,Creepshow
 516,Creed,1711,Creed
 4134,Monster House,1726,Monster House
 2844,The Pursuit of Happyness,1743,The Pursuit of Happyness
+44,The Purple Rose of Cairo,1744,The Purple Rose of Cairo
 3643,Purple Rain,1745,Purple Rain
 320,The Avengers,1760,The Avengers
 1004,Avengers: Age of Ultron,1764,Avengers: Age of Ultron
 1663,"Crazy, Stupid, Love.",1781,"Crazy, Stupid, Love"
 2465,Monster,1789,Monster
+1483,Monsieur Verdoux,1794,Monsieur Verdoux
 4284,Avanti!,1811,Avanti!
 281,Avatar,1816,Avatar
+3652,Avalon,1819,Avalon
 2364,Crazy Heart,1837,Crazy Heart
 2422,The Book of Eli,1839,The Book of Eli
 681,Boogie Nights,1844,Boogie Nights
 3235,The Crazies,1889,The Crazies
 3702,The Crazies,1891,The Crazies
 1138,Bonnie and Clyde,1904,Bonnie and Clyde
+4000,Monkey Shines,1906,Monkey Shines
 3259,Auto Focus,1943,Auto Focus
+2033,Crash,1954,Crash
 3196,Crank,1959,Crank
 2986,The Money Pit,1975,The Money Pit
 453,Moneyball,1976,Moneyball
 1204,Punch-Drunk Love,1993,Punch-Drunk Love
+2859,Pumpkinhead,1995,Pumpkinhead
 918,Austin Powers: International Man of Mystery,2006,Austin Powers: International Man of Mystery
 1121,Austin Powers: The Spy Who Shagged Me,2007,Austin Powers: The Spy Who Shagged Me
 2905,Austin Powers in Goldmember,2008,Austin Powers in Goldmember
 3572,The Craft,2013,The Craft
+2288,Mona Lisa,2039,Mona Lisa
+2757,Pumping Iron,2047,Pumping Iron
 1117,Pump Up the Volume,2048,Pump Up the Volume
 86,Pulp Fiction,2060,Pulp Fiction
+2760,The Cowboys,2083,The Cowboys
 3209,Bolt,2097,Bolt
+3938,Mommie Dearest,2104,Mommie Dearest
+2764,Auntie Mame,2126,Auntie Mame
 3616,August Rush,2129,August Rush
 2086,Public Enemies,2183,Public Enemies
 2507,The Cove,2205,The Cove
+2516,Psycho II,2242,Psycho II
+374,Psycho,2243,Psycho
 3542,Psycho,2245,Psycho
 1712,Attack the Block,2263,Attack the Block
 2612,Courage Under Fire,2268,Courage Under Fire
 2160,Boiler Room,2287,Boiler Room
 1887,Atonement,2321,Atonement
 2143,The Count of Monte Cristo,2336,The Count of Monte Cristo
+870,Modern Times,2354,Modern Times
+2184,Modern Romance,2355,Modern Romance
 3983,Atlantis: The Lost Empire,2379,Atlantis: The Lost Empire
+3228,The Cotton Club,2391,The Cotton Club
 3270,Body of Lies,2396,Body of Lies
+760,Body Double,2397,Body Double
+864,Body Heat,2399,Body Heat
+1973,Moby Dick,2413,Moby Dick
 3820,The Proposal,2435,The Proposal
+1525,Atlantic City,2446,Atlantic City
 3962,Mo' Better Blues,2478,Mo' Better Blues
 2376,The Prophecy,2485,The Prophecy
 2672,Corpse Bride,2512,The Corpse Bride
 1954,Bob Roberts,2524,Bob Roberts
+1725,Mister Roberts,2541,Mister Roberts
 1238,Prometheus,2559,Prometheus
+3384,At Close Range,2583,At Close Range
 3579,Copycat,2600,Copycat
 1647,Coraline,2602,Coraline
 1172,The Blues Brothers,2608,The Blues Brothers
+196,Blue Velvet,2611,Blue Velvet
+1101,Blue Valentine,2612,Blue Valentine
+3041,The Missouri Breaks,2622,The Missouri Breaks
 803,Mississippi Burning,2625,Mississippi Burning
 1824,The Mist,2627,The Mist
 2540,Cop Land,2683,Cop Land
@@ -188,19 +254,28 @@ ltable_id,ltable_title,rtable_id,rtable_title
 2112,Lucky Number Slevin,2826,Lucky Number Slevin
 4114,Coogan's Bluff,2861,Coogan's Bluff
 4087,Blown Away,2880,Blown Away
+2037,Missing,2883,Missing
+2208,Prizzi's Honor,2893,Prizzi's Honor
 2637,Private Parts,2905,Private Parts
 4160,Assassins,2923,Assassins
 1093,The Assassination of Jesse James by the Coward Robert Ford,2927,The Assassination of Jesse James by the Coward Robert Ford
+1284,Dune,2939,Dune
+1175,The Conversation,2949,The Conversation
+648,Blow Out,2959,Blow Out
 2132,Bloody Sunday,2965,Bloody Sunday
 1122,Blow,2966,Blow
 3487,Private Benjamin,2990,Private Benjamin
 886,Prisoners,2998,Prisoners
+2923,Lucas,3001,Lucas
+722,The Asphalt Jungle,3015,The Asphalt Jungle
 1215,Dumbo,3025,Dumbo
 811,Dumb and Dumber,3027,Dumb & Dumber
 1680,Control,3037,Control
 1635,Bloodsport,3050,Bloodsport
 4197,Miss Congeniality,3068,Miss Congeniality
+2601,Mishima: A Life in Four Chapters,3071,Mishima: A Life in Four Chapters
 1965,The Contender,3135,The Contender
+1345,The Misfits,3147,The Misfits
 248,Misery,3152,Misery
 3693,Les Misérables,3153,Les Miserables
 1119,Les Misérables,3157,Les Miserables
@@ -211,6 +286,7 @@ ltable_id,ltable_title,rtable_id,rtable_title
 1303,Contact,3209,Contact
 2056,Contagion,3210,Contagion
 3399,Mirrormask,3231,MirrorMask
+3422,Prince of the City,3248,Prince of the City
 956,As Good as It Gets,3276,As Good as it Gets
 3344,Constantine,3300,Constantine
 2684,The Constant Gardener,3301,The Constant Gardener
@@ -222,6 +298,7 @@ ltable_id,ltable_title,rtable_id,rtable_title
 543,Primer,3347,Primer
 2354,A.I. Artificial Intelligence,3367,Artificial Intelligence: AI
 842,The Artist,3369,The Artist
+2057,Conquest of the Planet of the Apes,3391,Conquest of the Planet of the Apes
 1779,The Conjuring,3403,The Conjuring
 189,Minority Report,3424,Minority Report
 2826,Primary Colors,3436,Primary Colors
@@ -232,15 +309,20 @@ ltable_id,ltable_title,rtable_id,rtable_title
 2030,Pride & Prejudice,3519,Pride & Prejudice
 2947,Love Story,3529,Love Story
 3042,Confidence,3570,Confidence
+1937,The Blob,3581,The Blob
 1843,Confessions of a Dangerous Mind,3585,Confessions of a Dangerous Mind
 4113,Mimic,3616,Mimic
 2962,The Arrival,3641,The Arrival
+2948,Around the World in Eighty Days,3648,Around the World in 80 Days
 1679,Driving Miss Daisy,3669,Driving Miss Daisy
 15,Drive,3680,Drive
 2359,The Blind Side,3699,The Blind Side
 1592,Pretty Woman,3721,Pretty Woman
 844,Pretty in Pink,3727,Pretty in Pink
+4274,Pretty Baby,3728,Pretty Baby
+524,The Hustler,3759,The Hustler
 1717,Hustle & Flow,3767,Hustle & Flow
+2018,Conan the Destroyer,3793,Conan the Destroyer
 129,Blazing Saddles,3805,Blazing Saddles
 998,Miller's Crossing,3810,Miller's Crossing
 1025,Million Dollar Baby,3811,Million Dollar Baby
@@ -248,10 +330,14 @@ ltable_id,ltable_title,rtable_id,rtable_title
 209,The Prestige,3830,The Prestige
 1248,Husbands and Wives,3862,Husbands and Wives
 2665,The Hurricane,3867,The Hurricane
+773,Dressed to Kill,3871,Dressed to Kill
+3530,Dreamscape,3879,Dreamscape
 993,Dredd,3880,Dredd
+746,Conan the Barbarian,3882,Conan the Barbarian
 1302,Con Air,3889,Con Air
 3705,Blast from the Past,3898,Blast from the Past
 1688,Milk,3912,Milk
+490,Mildred Pierce,3918,Mildred Pierce
 1974,Armageddon,3949,Armageddon
 3664,Arlington Road,3950,Arlington Road
 2456,The Aristocats,3960,The Aristocats
@@ -269,18 +355,23 @@ ltable_id,ltable_title,rtable_id,rtable_title
 145,Predator,4142,Predator
 4238,Love & Other Drugs,4169,Love and Other Drugs
 637,The Hunt for Red October,4180,The Hunt for Red October
+2197,The Hunger,4188,The Hunger
 4005,The Hunger Games: Mockingjay - Part 2,4194,The Hunger Games: Mockingjay - Part 2
 2818,The Hunger Games: Mockingjay - Part 1,4197,The Hunger Games: Mockingjay - Part 1
 1017,The Hunger Games,4200,The Hunger Games
+3033,Dragonslayer,4202,Dragonslayer
 1579,The Commitments,4208,The Commitments
+2645,Black Sunday,4221,Black Sunday
 2759,The Black Stallion,4222,The Black Stallion
 2576,Midway,4227,Midway
+2744,A Midsummer Night's Sex Comedy,4229,A Midsummer Night's Sex Comedy
 489,Black Swan,4230,Black Swan
 3420,A Prairie Home Companion,4252,A Prairie Home Companion
 2772,Arachnophobia,4275,Arachnophobia
 1229,Hunger,4277,Hunger
 2366,The Hunchback of Notre Dame,4281,The Hunchback of Notre Dame
 1087,The Hunger Games: Catching Fire,4282,The Hunger Games: Catching Fire
+3053,The Hunchback of Notre Dame,4283,The Hunchback of Notra Dame
 3513,The Hunchback of Notre Dame,4284,The Hunchback of Notre Dame
 3098,DragonHeart,4295,Dragonheart
 2102,Dragon: The Bruce Lee Story,4299,Dragon: The Bruce Lee Story
@@ -291,35 +382,56 @@ ltable_id,ltable_title,rtable_id,rtable_title
 236,Midnight Run,4327,Midnight Run
 3116,Midnight in the Garden of Good and Evil,4336,Midnight in the Garden of Good and Evil
 732,Midnight in Paris,4342,Midnight in Paris
+203,Love and Death,4354,Love and Death
+1759,Coming Home,4396,Coming Home
+986,Midnight Express,4416,Midnight Express
 149,Midnight Cowboy,4418,Midnight Cowboy
 2309,A Midnight Clear,4421,A Midnight Clear
 4233,Black Mass,4422,Black Mass
 1639,Love Actually,4447,Love Actually
 3806,Apt Pupil,4453,Apt Pupil
+2794,April Fool's Day,4456,April Fool's Day
 3318,Dragnet,4468,Dragnet
 1241,Drag Me to Hell,4469,Drag Me To Hell
+3435,Dracula,4477,Dracula
 521,Bram Stoker's Dracula,4478,Bram Stoker's Dracula
+3169,The Black Hole,4506,The Black Hole
 377,Black Hawk Down,4509,Black Hawk Down
+4072,Dr. Jekyll and Mr. Hyde,4587,Dr. Jekyll and Mr. Hyde
 944,Black Dynamite,4611,Black Dynamite
+2762,The Black Cauldron,4622,The Black Cauldron
+1536,The Postman Always Rings Twice,4639,The Postman Always Rings Twice
+2837,The Postman Always Rings Twice,4641,The Postman Always Rings Twice
 3925,Postcards from the Edge,4645,Postcards from the Edge
+4143,The Lost World,4649,The Lost World
 915,The Lost World: Jurassic Park,4651,The Lost World: Jurassic Park
+556,The Lost Weekend,4653,The Lost Weekend
 56,The Hudsucker Proxy,4686,The Hudsucker Proxy
 1491,Hugo,4690,Hugo
 3817,Down with Love,4701,Down with Love
+3838,Coma,4710,Coma
 252,Lost in Translation,4769,Lost in Translation
 3874,Appaloosa,4776,Appaloosa
 2097,The Apostle,4777,The Apostle
 244,Apollo 13,4782,Apollo 13
 2502,Apocalypto,4786,Apocalypto
 3215,Hudson Hawk,4788,Hudson Hawk
+537,Hud,4791,Hud
 4206,Down and Out in Beverly Hills,4811,Down and Out in Beverly Hills
+47,Down by Law,4812,Down by Law
+3079,Colossus: The Forbin Project,4819,Colossus: The Forbin Project
 2040,Colors,4823,Colors
 1404,The Color Purple,4831,The Color Purple
 2523,Michael Collins,4850,Michael Collins
 1784,Michael Clayton,4851,Michael Clayton
+3354,Miami Blues,4856,Miami Blues
 873,The Poseidon Adventure,4868,The Poseidon Adventure
+1883,Lost Horizon,4881,Lost Horizon
+1701,Lost in America,4882,Lost in America
 937,Lost Highway,4886,Lost Highway
 391,Apocalypse Now,4895,Apocalypse Now
+279,The Apartment,4897,The Apartment
+726,The Howling,4909,The Howling
 1216,Howards End,4918,Howards End
 1961,How to Train Your Dragon 2,4924,How to Train Your Dragon 2
 1038,How to Train Your Dragon,4926,How to Train Your Dragon
@@ -329,36 +441,51 @@ ltable_id,ltable_title,rtable_id,rtable_title
 919,The Lost Boys,4996,The Lost Boys
 3606,Any Which Way You Can,5020,Any Which Way You Can
 2823,Any Given Sunday,5024,Any Given Sunday
+2475,How to Succeed in Business Without Really Trying,5026,How to Succeed in Business Without Really Trying
+2401,How to Marry a Millionaire,5034,How to Marry a Millionaire
+310,Double Indemnity,5050,Double Indemnity
 3592,College,5056,College
 1221,Collateral,5063,Collateral
 2932,The Birth of a Nation,5072,The Birth of a Nation
+2729,Birdy,5075,Birdy
+260,The Birds,5079,The Birds
 291,Metropolis,5087,Metropolis
 378,Birdman or (The Unexpected Virtue of Ignorance),5090,Birdman or (The Unexpected Virtue of Ignorance)
 3929,Metallica: Some Kind of Monster,5100,Metallica: Some Kind of Monster
+3461,The Pope of Greenwich Village,5113,The Pope of Greenwich Village
 4094,Antwone Fisher,5135,Antwone Fisher
 2634,Antichrist,5144,Antichrist
+3464,How to Get Ahead in Advertising,5149,How to Get Ahead in Advertising
 3991,Cold Mountain,5184,Cold Mountain
 2388,The Birdcage,5192,The Birdcage
+3797,Bird,5199,Bird
 3280,Lords of Dogtown,5238,The Lords of Dogtown
 2594,Lord of War,5239,Lord of War
 2007,The Lord of the Rings,5241,The Lord of the Rings
 716,The Lord of the Rings: The Return of the King,5245,The Lord of the Rings: The Return of the King
 1073,The Lord of the Rings: The Two Towers,5246,The Lord of the Rings: The Two Towers
 485,The Lord of the Rings: The Fellowship of the Ring,5247,The Lord of the Rings: The Fellowship of the Ring
+1713,How the Grinch Stole Christmas!,5264,How the Grinch Stole Christmas
 3040,Dope,5285,Dope
 3207,Biloxi Blues,5307,Biloxi Blues
 3064,Lord of the Flies,5336,Lord of the Flies
 766,Ant-Man,5352,Ant-Man
+1012,How Green Was My Valley,5363,How Green Was My Valley
 2164,The Doors,5373,The Doors
 1526,Billy Madison,5398,Billy Madison
+3641,Billy Liar,5399,Billy Liar
+2062,Billy Elliot,5403,Billy Elliot
 3928,Poltergeist II: The Other Side,5426,Poltergeist II: The Other Side
 159,Looper,5433,Looper
 1652,The Lookout,5437,The Lookout
 3825,Looking for Richard,5441,Looking for Richard
+2505,Another Woman,5442,Another Woman
 2944,Another Year,5446,Another Year
 3951,Another 48 Hrs.,5469,Another 48 Hrs.
 3022,Another Earth,5471,Another Earth
+1008,Don't Look Now,5496,Donâ€™t Look Now
 3288,Futurama: Bender's Big Score,5505,Futurama - Bender's Big Score
+2082,The Fury,5509,The Fury
 979,Fury,5512,Fury
 2182,Furious 7,5518,Furious 7
 2312,Cocoon,5525,Cocoon
@@ -367,23 +494,38 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3586,The Messenger,5556,The Messenger
 2255,Police Academy,5565,Police Academy
 3722,Anomalisa,5590,Anomalisa
+163,Annie Hall,5593,Annie Hall
+4001,Annie Get Your Gun,5595,Annie Get Your Gun
 4231,The House of Yes,5598,The House of Yes
+643,House of Wax,5599,House of Wax
 1197,Donnie Brasco,5616,Donnie Brasco
 13,Donnie Darko,5617,Donnie Darko
 3695,Funny People,5624,Funny People
 2064,Funny Girl,5627,Funny Girl
+727,Funny Face,5629,Funny Face
 3362,Funny Farm,5630,Funny Farm
 3718,Cobra,5641,Cobra
+218,Big Trouble in Little China,5655,Big Trouble in Little China
+1225,The Longest Yard,5685,The Longest Yard
+1000,The Longest Day,5692,The Longest Day
 2656,Annie,5706,Annie
 3049,The House of the Devil,5712,The House of the Devil
 3480,House of Sand and Fog,5714,House of Sand and Fog
+478,House of Games,5720,House of Games
 1656,House of Flying Daggers,5724,House of Flying Daggers
+2532,The Funhouse,5740,The Funhouse
 1192,Coal Miner's Daughter,5755,Coal Miner's Daughter
 2651,Clueless,5764,Clueless
+3146,Merry Christmas Mr. Lawrence,5773,"Merry Christmas, Mr. Lawrence"
+3697,Big Fan,5776,Big Stan
 3890,Mermaids,5783,Mermaids
+2328,The Long Riders,5811,The Long Riders
 2910,The Long Kiss Goodnight,5817,The Long Kiss Goodnight
 3852,House of 1000 Corpses,5840,"House of 1,000 Corpses"
 2806,Don Jon,5863,Don Jon
+3479,Fun & Fancy Free,5870,Fun and Fancy Free
+495,Clue,5876,Clue
+51,The Big Sleep,5882,The Big Sleep
 1006,The Big Short,5895,The Big Short
 3276,The Hours,5928,The Hours
 621,Full Metal Jacket,5948,Full Metal Jacket
@@ -395,9 +537,12 @@ ltable_id,ltable_title,rtable_id,rtable_title
 827,Point Break,5985,Point Break
 3645,Point of No Return,5986,Point of No Return
 1575,Animal Kingdom,6001,Animal Kingdom
+2862,The Hound of the Baskervilles,6004,The Hound of the Baskervilles
+1228,Guys and Dolls,6025,Guys and Dolls
 353,The Fugitive,6043,The Fugitive
 2675,Cloudy with a Chance of Meatballs,6053,Cloudy with a Chance of Meatballs
 738,Cloud Atlas,6059,Cloud Atlas
+1952,Big Jake,6074,Big Jake
 749,The Big Lebowski,6077,The Big Lebowski
 1271,Lone Star,6107,Lone Star
 2977,Lone Survivor,6114,Lone Survivor
@@ -411,15 +556,20 @@ ltable_id,ltable_title,rtable_id,rtable_title
 988,Big Fish,6206,Big Fish
 1279,Menace II Society,6214,Menace II Society
 2878,Pocahontas,6225,Pocahontas
+90,Lolita,6238,Lolita
 3667,Hot Tub Time Machine,6272,Hot Tub Time Machine
 3244,Hot Shots! Part Deux,6273,Hot Shots! Part Deux
 3014,Hot Shots!,6274,Hot Shots!
 3114,Hot Rod,6279,Hot Rod
 104,The Guns of Navarone,6301,The Guns of Navarone
 820,Frost/Nixon,6318,Frost/Nixon
+3210,The Front Page,6321,The Front Page
 1642,Frozen,6325,Frozen
+424,A Clockwork Orange,6327,A Clockwork Orange
 437,Close Encounters of the Third Kind,6331,Close Encounters of the Third Kind
 2087,Clockers,6333,Clockers
+3932,Cloak & Dagger,6337,Cloak & Dagger
+1857,The Big Country,6345,The Big Country
 2332,Big Daddy,6347,Big Daddy
 932,The Big Chill,6351,The Big Chill
 3520,Men of Honor,6357,Men of Honor
@@ -428,8 +578,13 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3969,Men in Black 3,6364,Men in Black 3
 2005,Memphis Belle,6370,Memphis Belle
 3686,The Pledge,6381,The Pledge
+528,Logan's Run,6390,Logan's Run
 4066,Angela's Ashes,6402,Angela's Ashes
+868,Angel Heart,6410,Angel Heart
+4023,An Angel at My Table,6413,An Angel at My Table
 756,Dogma,6434,Dogma
+3661,Gunfight at the O.K. Corral,6444,Gunfight at the O.K. Corral
+3308,Gung Ho,6446,Gung Ho
 2895,Cliffhanger,6478,Cliffhanger
 3736,The Client,6479,The Client
 768,Clerks,6481,Clerks
@@ -441,61 +596,90 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3412,Playing by Heart,6527,Playing by Heart
 4260,Lock Up,6538,Lock Up
 1454,The Andromeda Strain,6554,The Andromeda Strain
+596,Andrei Rublev,6555,Andrei Rublev
 2041,Gummo,6589,Gummo
+659,From Here to Eternity,6603,From Here to Eternity
 3691,From Hell,6606,From Hell
 110,From Dusk Till Dawn,6607,From Dusk Till Dawn
 2278,Cleopatra,6614,Cleopatra
 1755,Clear and Present Danger,6622,Clear and Present Danger
+2916,Melvin and Howard,6645,Melvin and Howard
+2936,Melody Time,6646,Melody Time
 1626,Melancholia,6655,Melancholia
 334,The Player,6661,The Player
+1052,Play Misty for Me,6668,Play Misty for Me
+1296,Local Hero,6672,Local Hero
 4051,Loaded Weapon 1,6677,Loaded Weapon 1
 2215,Horrible Bosses,6708,Horrible Bosses
+480,Dog Day Afternoon,6711,Dog Day Afternoon
 1819,Dodgeball: A True Underdog Story,6718,Dodgeball: A True Underdog Story
+655,Day of the Dead,6720,Document of the Dead
 4003,A Guide to Recognizing Your Saints,6730,A Guide to Recognizing Your Saints
+2436,The Frisco Kid,6743,The Frisco Kid
 1250,The Frighteners,6745,The Frighteners
 3315,Fright Night,6748,Fright Night
+1144,Fright Night,6751,Fright Night
 177,Platoon,6799,Platoon
+1516,...and justice for all.,6829,...And Justice For All
 4019,Hopscotch,6834,Hopscotch
+2953,Hope and Glory,6840,Hope and Glory
 415,Doctor Zhivago,6846,Doctor Zhivago
 2701,The Guest,6858,The Guest
 699,Guess Who's Coming to Dinner,6860,Guess Who's Coming to Dinner
 4151,Friends with Benefits,6878,Friends with Benefits
 2079,Fried Green Tomatoes,6885,Fried Green Tomatoes
 3067,Friday the 13th Part VII: The New Blood,6886,Friday the 13th Part VII: The New Blood
+1324,Clash of the Titans,6887,Clash of the Titans
+3761,Beyond the Valley of the Dolls,6901,Beyond the Valley of the Dolls
 2702,Beyond the Mat,6906,Beyond the Mat
 2381,Megamind,6929,Megamind
+1085,Planet Terror,6934,Planet Terror
 1081,Planet of the Apes,6936,Planet of the Apes
 125,"Planes, Trains & Automobiles",6945,"Planes, Trains & Automobiles"
 2248,Living in Oblivion,6950,Living in Oblivion
+2319,Anchors Aweigh,6954,Anchors Aweigh
 284,Anchorman: The Legend of Ron Burgundy,6957,Anchorman: The Legend of Ron Burgundy
 4126,Anchorman 2: The Legend Continues,6961,Anchorman 2: The Legend Continues
+63,Hoosiers,6964,Hoosiers
 221,Hoop Dreams,6970,Hoop Dreams
 504,Hook,6975,Hook
 3450,Doc Hollywood,6991,Doc Hollywood
 1218,The Guard,7004,The Guard
 321,Guardians of the Galaxy,7005,Guardians of the Galaxy
+2043,Friday the 13th: The Final Chapter,7011,Friday the 13th Part IV: The Final Chapter
+2202,Friday the 13th Part 2,7012,Friday the 13th Part 2
+3922,Friday the 13th: A New Beginning,7013,Friday the 13th Part V: A New Beginning
+3086,Friday the 13th Part III,7014,Friday the 13th Part 3
+633,Friday the 13th,7016,Friday the 13th
 1912,Friday Night Lights,7020,Friday Night Lights
 1632,Friday,7021,Friday
 2822,Frida,7030,Frida
 4235,A Civil Action,7031,A Civil Action
 1090,City Slickers,7038,City Slickers
 1099,Meet the Parents,7068,Meet the Parents
+2726,Places in the Heart,7081,Places in the Heart
 2287,The Living Daylights,7085,The Living Daylights
+2630,Live Free or Die Hard,7097,Live Free or Die
 2630,Live Free or Die Hard,7098,Live Free or Die Hard
 2994,Anastasia,7107,Anastasia
 4119,Analyze This,7113,Analyze This
 53,Do the Right Thing,7134,Do the Right Thing
 2003,Grumpy Old Men,7141,Grumpy Old Men
 2429,The Freshman,7152,The Freshman
+1600,Frenzy,7159,Frenzy
 2982,Fresh,7161,Fresh
 2682,Frequency,7163,Frequency
 3200,The French Lieutenant's Woman,7164,The French Lieutenant's Woman
 4115,Meet the Fockers,7213,Meet the Fockers
+345,Meet Me in St. Louis,7217,Meet Me in St. Louis
+533,A Place in the Sun,7221,A Place in the Sun
 1106,Live and Let Die,7237,Live and Let Die
 3716,Honeymoon in Vegas,7259,Honeymoon in Vegas
 162,Groundhog Day,7285,Groundhog Day
 151,City Lights,7286,City Lights
 3824,French Kiss,7287,French Kiss
+2722,Citizen Ruth,7297,Citizen Ruth
+247,Citizen Kane,7300,Citizen Kane
 2218,Beverly Hills Cop II,7321,Beverly Hills Cop II
 3102,Meet Joe Black,7324,Meet Joe Black
 238,Beverly Hills Cop,7325,Beverly Hills Cop
@@ -505,6 +689,8 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3942,Hondo,7387,Hondo
 1104,Django Unchained,7405,Django Unchained
 200,Grosse Pointe Blank,7408,Grosse Pointe Blank
+1964,French Connection II,7418,French Connection II
+742,The French Connection,7420,The French Connection
 3017,Freeway,7429,Freeway
 2105,Pitch Perfect,7493,Pitch Perfect
 1546,Pitch Black,7502,Pitch Black
@@ -512,16 +698,19 @@ ltable_id,ltable_title,rtable_id,rtable_title
 2150,A Little Princess,7511,A Little Princess
 843,Grizzly Man,7558,Grizzly Man
 1496,Grindhouse,7574,Grindhouse
+1115,Better Off Dead...,7621,Better Off Dead...
 2433,Meatballs,7635,Meatballs
 723,Pirates of the Caribbean: The Curse of the Black Pearl,7641,Pirates of the Caribbean: The Curse of the Black Pearl
 1879,Pirates of the Caribbean: Dead Man's Chest,7643,Pirates of the Caribbean: Dead Manâ€™s Chest
 2531,Pirates of the Caribbean: At World's End,7644,Pirates of the Caribbean: At Worldâ€™s End
+3738,The Pirate,7650,The Pirate
 724,Little Miss Sunshine,7670,Little Miss Sunshine
 960,Amour,7671,Amour
 3564,Homicide,7681,Homicide
 3416,Homeward Bound: The Incredible Journey,7684,Homeward Bound: The Incredible Journey
 977,The Grifters,7704,The Grifters
 2229,Cinderella Man,7740,Cinderella Man
+176,Mean Streets,7772,Mean Streets
 2198,Mean Creek,7779,Mean Creek
 1259,Mean Girls,7781,Mean Girls
 3160,Little Man Tate,7802,Little Man Tate
@@ -532,25 +721,38 @@ ltable_id,ltable_title,rtable_id,rtable_title
 2640,Gremlins 2: The New Batch,7859,Gremlins 2: The New Batch
 333,Gremlins,7865,Gremlins
 695,Cinderella,7878,Cinderella
+2271,The Cincinnati Kid,7879,The Cincinnati Kid
 3533,The Cider House Rules,7893,The Cider House Rules
+36,The Best Years of Our Lives,7906,The Best Years of Our Lives
 3917,Now You See Me,7912,Now You See Me
+3433,The Best of Times,7920,The Best of Times
 3465,"Me, Myself & Irene",7926,"Me, Myself & I"
 3465,"Me, Myself & Irene",7927,"Me, Myself & Irene"
 1102,Pinocchio,7935,Pinocchio
+2771,The Pink Panther Strikes Again,7938,The Pink Panther Strikes Again
+1683,Pink Floyd: The Wall,7940,Pink Floyd: The Wall
 1984,The Amityville Horror,7960,The Amityville Horror
 2791,Amistad,7963,Amistad
 3750,Greenberg,7995,Greenberg
 2268,Green Street Hooligans,7997,Green Street Hooligans
+3943,El Cid,8011,El Cid
 3093,Now and Then,8024,Now and Then
+4006,Best of the Best,8040,Best of the Best
 1048,Me and You and Everyone We Know,8054,Me and You and Everyone We Know
+1969,McLintock!,8060,McLintock!
 2333,Me and Earl and the Dying Girl,8063,Me and Earl and the Dying Girl
 1648,Pineapple Express,8077,Pineapple Express
 2259,Home Alone 2: Lost in New York,8102,Home Alone 2: Lost in New York
 414,Home Alone,8105,Home Alone
+1842,Hombre,8112,Hombre
+1575,Animal Kingdom,8118,Disney's Animal Kingdom
 520,The Green Mile,8142,The Green Mile
 2848,Notting Hill,8190,Notting Hill
 1092,Best in Show,8202,Best in Show
+673,McCabe & Mrs. Miller,8207,McCabe & Mrs. Miller
+2457,Pillow Talk,8217,Pillow Talk
 1514,Little Children,8234,Little Children
+7,An American Werewolf in London,8249,An American Werewolf in London
 3113,The American,8257,The American
 4025,An American Tail: Fievel Goes West,8260,An American Tail: Fievel Goes West
 1948,An American Tail,8261,An American Tail
@@ -558,30 +760,42 @@ ltable_id,ltable_title,rtable_id,rtable_title
 4044,Disclosure,8304,Disclosure
 3965,The Greatest Story Ever Told,8318,The Greatest Story Ever Told
 2397,Frantic,8320,Frantic
+3865,Frankie and Johnny,8325,Frankie and Johnny
 3574,Frankenweenie,8336,Frankenweenie
 3563,The Chronicles of Riddick,8343,The Chronicles of Riddick
 3482,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",8352,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+685,Notorious,8356,Notorious
 3819,Nothing to Lose,8364,Nothing To Lose
 4268,Pieces of April,8402,Pieces of April
 1227,Little Big Man,8404,Little Big Man
 720,American Splendor,8428,American Splendor
+1853,"It's the Great Pumpkin, Charlie Brown",8434,"It's the Great Pumpkin, Charlie Brown"
 2204,American Sniper,8444,American Sniper
 3373,Dirty Work,8456,Dirty Work
+2509,The Greatest Show on Earth,8465,The Greatest Show on Earth
+336,Frankenstein,8485,Frankenstein
 1991,Frank,8495,Frank
 1845,Chronicle,8497,Chronicle
 2785,Notes on a Scandal,8523,Notes on a Scandal
 2525,The Notebook,8526,The Notebook
+3163,Maximum Overdrive,8551,Maximum Overdrive
 1389,The Piano,8570,The Piano
 276,American Psycho,8598,American Psycho
+4122,American Pop,8602,American Pop
 1699,The American President,8603,The American President
 3325,It's Kind of a Funny Story,8611,It's Kind of a Funny Story
 98,It's a Wonderful Life,8621,Itâ€™s a Wonderful Life
 1067,Dirty Rotten Scoundrels,8634,Dirty Rotten Scoundrels
+3602,Dirty Mary Crazy Larry,8636,"Dirty Mary, Crazy Larry"
 3008,The Holiday,8638,The Holiday
+859,Dirty Harry,8639,Dirty Harry
 20,The Dirty Dozen,8643,The Dirty Dozen
+2209,The Great Race,8652,The Great Race
+2479,The Great Santini,8653,The Great Santini
 2458,Dirty Dancing,8655,Dirty Dancing
 792,The Great Muppet Caper,8657,The Great Muppet Caper
 1999,The Great Outdoors,8658,The Great Outdoors
+1827,The Great Mouse Detective,8662,The Great Mouse Detective
 106,A Christmas Story,8685,A Christmas Story
 1744,Maverick,8735,Maverick
 669,The Pianist,8744,The Pianist
@@ -591,19 +805,25 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3912,American Pie 2,8778,American Pie 2
 797,American Movie,8784,American Pie
 1088,American Pie,8784,American Pie
+1178,It's a Mad Mad Mad Mad World,8798,It's a Mad Mad Mad Mad World
 1305,The Italian Job,8799,The Italian Job
 2542,Holes,8811,Holes
+4145,The Great Gatsby,8835,The Great Gatsby
+354,The Great Escape,8839,The Great Escape
 3739,Great Expectations,8840,Great Expectations
+3771,The Great Beauty,8844,The Great Gatsby
 3218,The Great Gatsby,8844,The Great Gatsby
 2142,The Fox and the Hound,8859,The Fox and the Hound
 2329,Foxcatcher,8864,Foxcatcher
 1870,Benny & Joon,8899,Benny & Joon
 1108,The Philadelphia Story,8936,The Philadelphia Story
+3886,The Philadelphia Experiment,8939,The Philadelphia Experiment
 2751,Philomena,8941,Philomena
 2446,The Lincoln Lawyer,8943,The Lincoln Lawyer
 1529,The Limey,8945,The Limey
 2299,Limitless,8950,Limitless
 1245,Lincoln,8953,Lincoln
+409,An American in Paris,8958,An American in Paris
 242,American History X,8968,American History X
 1386,American Hustle,8971,American Hustle
 717,It Happened One Night,8973,It Happened One Night
@@ -611,25 +831,36 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3788,Hocus Pocus,8989,Hocus Pocus
 3908,Hoffa,8991,Hoffa
 1741,The Hobbit: The Desolation of Smaug,9008,The Hobbit: The Desolation of Smaug
+1166,Grease,9018,Grease
 2095,Four Weddings and a Funeral,9026,Four Weddings and a Funeral
 2263,Four Rooms,9033,Four Rooms
 1775,Four Lions,9036,Four Lions
+2219,A Christmas Carol,9037,A Christmas Carol
 788,Gravity,9040,Gravity
+1371,Christine,9050,Christine
+2387,Beneath the Planet of the Apes,9076,Beneath the Planet of the Apes
 2151,Matrix Revolutions,9095,The Matrix Revolutions
 343,The Matrix,9096,The Matrix
 1498,The Matrix Reloaded,9097,The Matrix Reloaded
 2995,Matinee,9103,Matinee
+2349,Matewan,9105,Matewan
 3676,Matilda,9108,Matilda
+2385,Phenomena,9110,Phenomena
 1727,Philadelphia,9114,Philadelphia
 2211,Lilo & Stitch,9126,Lilo & Stitch
 381,American Graffiti,9136,American Graffiti
 2914,The Hobbit: The Battle of the Five Armies,9166,The Hobbit: The Battle of the Five Armies
 1070,The Hobbit: An Unexpected Journey,9167,The Hobbit: An Unexpected Journey
+1527,Diner,9171,Diner
+3236,North Dallas Forty,9215,North Dallas Forty
 215,North by Northwest,9216,North by Northwest
+75,The Ox-Bow Incident,9222,The Ox-Bow Incident
 4153,Owning Mahowny,9226,Owning Mahowny
 2679,Ben-Hur: A Tale of the Christ,9232,Ben-Hur: A Tale of the Christ
 1059,Ben-Hur,9234,Ben-Hur
 2851,Matchstick Men,9247,Matchstick Men
+4168,The Phantom Tollbooth,9248,The Phantom Tollbooth
+3301,American Gigolo,9265,American Gigolo
 1793,American Gangster,9271,American Gangster
 978,The Hitcher,9293,The Hitcher
 2277,The Hitchhiker's Guide to the Galaxy,9296,The Hitchhiker's Guide to the Galaxy
@@ -638,80 +869,120 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3996,Four Brothers,9325,Four Brothers
 2063,The Fountain,9330,The Fountain
 1718,Foul Play,9332,Foul Play
+2976,Norma Rae,9352,Norma Rae
 2234,Match Point,9372,Match Point
 2070,The Matador,9376,The Matador
 1571,The Phantom of the Opera,9383,The Phantom of the Opera
 929,American Beauty,9420,American Beauty
 3442,The Island,9421,The Island
 2900,Diggstown,9433,Diggstown
+1634,The Fortune Cookie,9462,The Fortune Cookie
 2338,Overboard,9503,Overboard
+2912,The Bells of St. Mary's,9521,The Bells of St. Mary's
 1074,The Master,9540,The Master
+1958,Phantasm II,9541,Phantasm II
+1573,Phantasm,9544,Phantasm
+1550,History of the World: Part I,9603,History of the World: Part I
 1660,A History of Violence,9605,A History of Violence
 845,Die Hard with a Vengeance,9617,Die Hard: With a Vengeance
 1184,Die Hard 2,9618,Die Hard 2
 326,Die Hard,9619,Die Hard
+1191,Grand Hotel,9628,Grand Hotel
 2306,Grand Canyon,9636,Grand Canyon
+4158,Fort Apache the Bronx,9641,"Fort Apache, The Bronx"
 590,Forrest Gump,9650,Forrest Gump
 2140,Chocolat,9666,Chocolat
 1674,Noises Off...,9676,Noises Off...
+619,The Outsiders,9682,The Outsiders
 983,Master and Commander: The Far Side of the World,9695,Master and Commander: The Far Side of the World
+4230,Pete's Dragon,9714,Peteâ€™s Dragon
+2820,Lifeforce,9729,Lifeforce
+1080,Lifeboat,9732,Lifeboat
+38,His Girl Friday,9774,His Girl Friday
 3448,Dick Tracy,9787,Dick Tracy
 4039,Dick,9788,Dick
 713,The Grand Budapest Hotel,9798,The Grand Budapest Hotel
 954,Gran Torino,9804,Gran Torino
 338,The Graduate,9806,The Graduate
+2940,Chisum,9823,Chisum
 1288,Forgetting Sarah Marshall,9824,Forgetting Sarah Marshall
+444,Chinatown,9831,Chinatown
+1035,The China Syndrome,9833,The China Syndrome
+1,The Outlaw Josey Wales,9867,The Outlaw Josey Wales
 2616,Mask,9888,Mask
 2117,The Mask,9890,The Mask
 2423,The Mask of Zorro,9891,The Mask of Zorro
+1096,Peter Pan,9911,Peter Pan
 4243,The Life of David Gale,9928,The Life of David Gale
 743,Life of Brian,9931,Life of Brian
+3945,Amazon Women on the Moon,9934,Amazon Women on the Moon
 1549,Life of Pi,9935,Life of Pi
 2485,The Amazing Spider-Man,9947,The Amazing Spider-Man
 953,The Iron Giant,9958,The Iron Giant
+3669,Ip Man 2,9960,Iron Man 2
 1636,Iron Man 2,9960,Iron Man 2
 1650,Iron Man 3,9961,Iron Man 3
 144,Iron Man,9963,Iron Man
 2285,Child's Play,10032,Child's Play
 2144,Nobody's Fool,10051,Nobody's Fool
+2276,Outland,10060,Outland
 3274,Outbreak,10065,Outbreak
 687,Mary Poppins,10104,Mary Poppins
 1947,Pet Sematary,10108,Pet Sematary
 3018,A Life Less Ordinary,10120,A Life Less Ordinary
 3317,Life Itself,10127,Life Itself
+482,Inside Out,10130,Life Inside Out
+2337,Irma la Douce,10149,Irma La Douce
 994,Diamonds Are Forever,10177,Diamonds Are Forever
 806,Dial M for Murder,10185,Dial M for Murder
+207,Foreign Correspondent,10215,Foreign Correspondent
+3065,Children of the Corn,10231,Children of the Corn
 890,Children of Men,10236,Children of Men
 1481,No Way Out,10255,No Way Out
 833,Out of Sight,10275,Out of Sight
+578,Being There,10281,Being There
 389,Being John Malkovich,10288,Being John Malkovich
 4250,Marvin's Room,10298,Marvin's Room
 653,Persona,10308,Persona
 540,Persepolis,10314,Persepolis
 2438,Life as a House,10329,Life as a House
+3635,The Life and Times of Judge Roy Bean,10333,The Life and Times of Judge Roy Bean
 1111,The Life Aquatic with Steve Zissou,10338,The Life Aquatic with Steve Zissou
 641,Amadeus,10346,Amadeus
 3669,Ip Man 2,10362,Ip Man
 709,Highlander,10382,Highlander
+3569,Force 10 from Navarone,10424,Force 10 from Navarone
+3836,Forbidden Zone,10426,Forbidden Zone
+2559,Children of a Lesser God,10430,Children of a Lesser God
 883,Out of Africa,10474,Out of Africa
+1044,Marty,10502,Marty
+1568,Martin,10508,Martin
 1747,Martha Marcy May Marlene,10514,Martha Marcy May Marlene
 180,The Martian,10521,The Martian
+137,The Perks of Being a Wallflower,10525,The Perks of Being a Wallflower
 2712,Perfume: The Story of a Murderer,10526,Perfume: The Story of a Murderer
 1413,A Perfect World,10529,A Perfect World
 2538,Always,10555,Always
+2373,High Society,10582,High Society
 2580,The Devil's Rejects,10602,The Devil's Rejects
 2830,Gosford Park,10610,Gosford Park
 2973,Gorillas in the Mist,10617,Gorillas in the Mist
+940,Forbidden Planet,10619,Forbidden Planet
+3340,For Whom the Bell Tolls,10623,For Whom the Bell Tolls
 948,For Your Eyes Only,10624,For Your Eyes Only
 2926,Chicken Run,10633,Chicken Run
 2609,Kung Fu Panda 2,10646,Kung Fu Panda 2
 1658,Kung Fu Panda,10648,Kung Fu Panda
 3335,Kundun,10653,Kundun
+4227,Behind the Candelabra,10686,Behind the Candelabra
+2827,The Beguiled,10698,The Beguiled
 2382,Mars Attacks!,10700,Mars Attacks!
 2602,Married to the Mob,10703,Married to the Mob
 4165,The Perfect Storm,10712,The Perfect Storm
+694,Altered States,10737,Altered States
 3654,Invincible,10760,Invincible
 3827,Invictus,10766,Invictus
+69,High Plains Drifter,10776,High Plains Drifter
 1103,High Noon,10777,High Noon
 142,The Devil's Backbone,10791,The Devil's Backbone
 1862,The Devil's Advocate,10793,Devil's Advocate
@@ -720,29 +991,38 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3426,For Love of the Game,10819,For Love of the Game
 2528,Chicago,10838,Chicago
 2471,No Man's Land,10857,No Man's Land
+1211,Marnie,10896,Marnie
 4032,Marley & Me,10906,Marley & Me
 2814,Licence to Kill,10925,Licence to Kill
+26,Invasion of the Body Snatchers,10958,Invasion of the Body Snatchers
+1886,High Anxiety,10973,High Anxiety
 510,High Fidelity,10975,High Fidelity
 2795,Devil in a Blue Dress,10984,Devil in a Blue Dress
 2974,The Devil Wears Prada,10992,The Devil Wears Prada
 134,Goodfellas,11000,Goodfellas
 1576,The Goodbye Girl,11005,The Goodbye Girl
 2159,Footloose,11021,Footloose
+3638,Krull,11044,Krull
 3847,No Escape,11062,No Escape
 984,The Others,11068,The Others
+2972,The Other Guys,11070,The Other Side
 442,Before Sunrise,11083,Before Sunrise
 1657,Before the Devil Knows You're Dead,11085,Before the Devil Knows You're Dead
 2115,Before Night Falls,11086,Before Night Falls
 571,Before Sunset,11088,Before Sunset
 175,Before Midnight,11089,Before Midnight
+2825,The Mark of Zorro,11091,The Mark of Zorro
 164,Beetlejuice,11098,Beetlejuice
 949,Liar Liar,11138,Liar Liar
 1638,Into the Wild,11172,Into the Wild
+3703,Into the Night,11174,Into the Night
+1155,The Hidden,11189,The Hidden
 370,Good Will Hunting,11212,Good Will Hunting
 4083,Foolish Wives,11219,Foolish Wives
 3128,Justice League: The New Frontier,11270,Justice League - The New Frontier
 4267,Justice League: Crisis on Two Earths,11273,Justice League: Crisis on Two Earths
 865,No Country for Old Men,11288,No Country for Old Men
+2972,The Other Guys,11302,The Other City
 2972,The Other Guys,11303,The Other Guys
 3794,Beerfest,11315,Beerfest
 3694,Marie Antoinette,11326,Marie Antoinette
@@ -750,6 +1030,7 @@ ltable_id,ltable_title,rtable_id,rtable_title
 2661,Chef,11406,Chef
 573,Kramer vs. Kramer,11407,Kramer vs. Kramer
 2207,Nixon,11433,Nixon
+2214,Bedknobs and Broomsticks,11462,Bedknobs and Broomsticks
 2921,Bedazzled,11473,Bedazzled
 2487,Maria Full of Grace,11474,Maria Full of Grace
 2877,Margin Call,11483,Margin Call
@@ -759,6 +1040,9 @@ ltable_id,ltable_title,rtable_id,rtable_title
 72,Interview with the Vampire: The Vampire Chronicles,11538,Interview with the Vampire: The Vampire Chronicles
 3410,Detroit Rock City,11550,Detroit Rock City
 714,"Good Morning, Vietnam",11573,Good Morning Vietnam
+1105,The Fog,11583,The Fog
+3302,Just One of the Guys,11622,Just One of the Guys
+511,Ninotchka,11634,Ninotchka
 4010,The Nines,11643,The Nines
 4201,Oscar,11661,Oscar
 632,Becket,11672,Becket
@@ -768,6 +1052,8 @@ ltable_id,ltable_title,rtable_id,rtable_title
 85,Interstellar,11750,Interstellar
 2838,The Good Girl,11799,The Good Girl
 174,Beauty and the Beast,11888,Beauty and the Beast
+250,Marathon Man,11890,Marathon Man
+3521,Pennies from Heaven,11909,Pennies from Heaven
 2593,Lethal Weapon 3,11927,Lethal Weapon 3
 2870,Lethal Weapon 4,11928,Lethal Weapon 4
 783,Lethal Weapon 2,11929,Lethal Weapon 2
@@ -775,19 +1061,28 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3074,All the Right Moves,11942,All the Right Moves
 3904,Internal Affairs,11946,Internal Affairs
 2378,All the Real Girls,11949,All the Real Girls
+1304,Interiors,11954,Interiors
+3891,Desperately Seeking Susan,11985,Desperately Seeking Susan
 3840,Despicable Me 2,11991,Despicable Me 2
 2101,Despicable Me,12003,Despicable Me
+975,The Fly,12006,The Fly
 840,Jurassic Park,12052,Jurassic Park
 1737,Jurassic World,12053,Jurassic World
 280,Juno,12055,Juno
 3432,Orlando,12072,Orlando
 3763,Beautiful Thing,12083,Beautiful Thing
 878,A Beautiful Mind,12092,A Beautiful Mind
+1890,The Many Adventures of Winnie the Pooh,12096,The Many Adventures of Winnie the Pooh
 1655,Let Me In,12130,Let Me In
 615,All the President's Men,12131,All the President's Men
+539,All That Jazz,12139,All That Jazz
 1375,Desperado,12183,Desperado
+2161,The Chaser,12206,The Chaser
 1313,Chasing Amy,12208,Chasing Amy
+3360,Junior Bonner,12230,Junior Bonner
 3027,Jungle Fever,12239,Jungle Fever
+1704,The Jungle Book,12244,The Jungle Book
+3953,A Nightmare on Elm Street 2: Freddy's Revenge,12254,A Nightmare on Elm Street Part 2: Freddy's Revenge
 1194,A Nightmare on Elm Street 3: Dream Warriors,12255,A Nightmare On Elm Street 3: Dream Warriors
 515,A Nightmare on Elm Street,12256,A Nightmare on Elm Street
 3273,A Nightmare on Elm Street 4: The Dream Master,12257,A Nightmare on Elm Street 4: The Dream Master
@@ -798,17 +1093,23 @@ ltable_id,ltable_title,rtable_id,rtable_title
 2983,Peggy Sue Got Married,12311,Peggy Sue Got Married
 1423,Pee-wee's Big Adventure,12321,Pee Wee's Big Adventure
 2668,Less Than Zero,12332,Less than Zero
+503,All Quiet on the Western Front,12349,All Quiet on the Western Front
 2624,Insomnia,12357,Insomnia
 1354,The Insider,12367,The Insider
+3632,Here Comes Mr. Jordan,12377,Here Comes Mr. Jordan
 690,Gone with the Wind,12408,Gone with the Wind
 3087,Gone in Sixty Seconds,12409,Gone in 60 Seconds
 1293,Gone Baby Gone,12411,"Gone, Baby, Gone"
 58,Gone Girl,12416,Gone Girl
+2521,Charlotte's Web,12428,Charlotte's Web
 2642,Charlie Wilson's War,12444,Charlie Wilson's War
 2451,Junebug,12463,Junebug
 527,The Nightmare Before Christmas,12472,The Nightmare Before Christmas
+2264,Nighthawks,12480,Nighthawks
+1365,Nightbreed,12481,Nightbreed
 755,Nightcrawler,12485,Nightcrawler
 3212,Orange County,12494,Orange County
+2269,All of Me,12565,All of Me
 2437,All Is Lost,12571,All is Lost
 482,Inside Out,12579,Inside Out
 1513,Inside Man,12584,Inside Man
@@ -816,18 +1117,26 @@ ltable_id,ltable_title,rtable_id,rtable_title
 1023,Inside Llewyn Davis,12586,Inside Llewyn Davis
 2335,Hercules,12592,Hercules
 1397,The Descendants,12610,The Descendants
+1706,Dersu Uzala,12612,Dersu Uzala
 116,Goldfinger,12631,Goldfinger
 1599,GoldenEye,12634,Goldeneye
 1497,Flirting with Disaster,12648,Flirting with Disaster
 4043,Charlie and the Chocolate Factory,12655,Charlie and the Chocolate Factory (IMAX)
+2535,A Charlie Brown Thanksgiving,12656,A Charlie Brown Thanksgiving
 4043,Charlie and the Chocolate Factory,12664,Charlie and the Chocolate Factory
 1157,Chariots of Fire,12665,Chariots of Fire
 708,Knocked Up,12669,Knocked Up
 1724,A Knight's Tale,12676,A Knightâ€™s Tale
 1411,Jumanji,12688,Jumanji
+4181,Night Train to Munich,12698,Night Train to Munich
+2418,Night Shift,12703,Night Shift
 2807,The Opposite of Sex,12713,The Opposite of Sex
+2587,The Beastmaster,12725,The Beastmaster
 4210,Beasts of No Nation,12727,Beasts of No Nation
+4073,"The Beast from 20,000 Fathoms",12732,"The Beast from 20,000 Fathoms"
 1697,Beasts of the Southern Wild,12735,Beasts of the Southern Wild
+3245,Maniac,12739,Maniac
+216,Manhunter,12743,Manhunter
 943,Manhattan Murder Mystery,12745,Manhattan Murder Mystery
 461,Manhattan,12748,Manhattan
 2749,PCU,12753,PCU
@@ -835,16 +1144,22 @@ ltable_id,ltable_title,rtable_id,rtable_title
 812,Henry V,12821,Henry V
 3214,The Golden Child,12847,The Golden Child
 130,The Gold Rush,12852,The Gold Rush
+1189,Flight of the Navigator,12864,Flight of the Navigator
+553,Charade,12872,Charade
 814,Chaplin,12877,Chaplin
+1878,Klute,12894,Klute
 3887,Julie & Julia,12906,Julie & Julia
+3393,Julia,12909,Julia
 3895,Juice,12912,Juice
 1738,Night of the Living Dead,12922,Night of the Living Dead
 992,Night of the Living Dead,12923,Night of the Living Dead
+3767,Operation Petticoat,12924,Operation Petticoat
 3968,Beaches,12945,Beaches
 3239,The Beach,12950,The Beach
 3871,Be Kind Rewind,12953,Be Kind Rewind
 1062,The Manchurian Candidate,12969,The Manchurian Candidate
 4020,All Dogs Go to Heaven,13002,All Dogs Go To Heaven
+210,All About Eve,13013,All About Eve
 4080,Innocent Blood,13020,Innocent Blood
 1523,Innerspace,13028,Innerspace
 1700,Inland Empire,13029,Inland Empire
@@ -854,18 +1169,31 @@ ltable_id,ltable_title,rtable_id,rtable_title
 2000,Flight,13083,Flight
 3770,Fletch Lives,13087,Fletch Lives
 1396,Fletch,13089,Fletch
+1005,The Changeling,13104,The Changeling
 2773,Changeling,13114,Changeling
 3460,Judgment Night,13132,Judgment Night
+894,Night of the Creeps,13136,Night of the Creeps
 3522,Night of the Demons,13137,Night of the Demons
+363,Judgment at Nuremberg,13138,Judgment at Nuremberg
+1608,Night of the Comet,13139,Night of the Comet
+3681,The Man with Two Brains,13186,The Man with Two Brains
 662,The Man with the Golden Gun,13189,The Man with the Golden Gun
 1499,The Man Who Wasn't There,13194,The Man Who Wasn't There
+84,Patton,13203,Patton
 2786,Paul,13207,Paul
 1461,The Lego Movie,13225,The Lego Movie
 3145,Alive,13229,Alive
+798,Help!,13253,Help!
 2075,Inherent Vice,13254,Inherent Vice
+3765,Godzilla vs. Destoroyah,13278,Godzilla vs. Destroyah
+3105,Godzilla vs. Hedorah,13279,Godzilla vs. Hedorah
+4132,Flesh + Blood,13294,Flesh & Blood
 2168,Flatliners,13305,Flatliners
 3509,The Kite Runner,13330,The Kite Runner
+67,The Man Who Shot Liberty Valance,13367,The Man Who Shot Liberty Valance
+536,The Man Who Knew Too Much,13374,The Man Who Knew Too Much
 3571,The Man Who Knew Too Little,13377,The Man Who Knew Too Little
+1494,The Man Who Fell to Earth,13384,The Man Who Fell to Earth
 1456,Patriot Games,13390,Patriot Games
 982,The Patriot,13392,The Patriot
 1934,Legends of the Fall,13411,Legends of the Fall
@@ -875,16 +1203,23 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3491,The Informant!,13436,The Informant!
 646,Inglourious Basterds,13438,Inglourious Basterds
 1559,Hellraiser,13441,Hellraiser
+2832,"Hello, Dolly!",13446,"Hello, Dolly"
+3783,Going My Way,13469,Going My Way
 2909,Flashdance,13484,Flashdance
+1342,Flash Gordon,13488,Flash Gordon
 3072,Kiss the Girls,13518,Kiss the Girls
+2527,Kiss of the Spider Woman,13522,Kiss of the Spider Woman
 3511,Kiss of the Dragon,13525,Kiss of the Dragon
 3978,Joy Ride,13535,Joy Ride
+1282,The Road,13544,The Open Road
 3133,Night at the Museum,13545,Night at the Museum
 1460,Open Range,13548,Open Range
 183,Alien,13598,Alien
+1242,Alice in Wonderland,13603,Alice in Wonderland
 2405,Hellboy II: The Golden Army,13636,Hellboy II: The Golden Army
 1364,Hellboy,13637,Hellboy
 2192,Demolition Man,13641,Demolition Man
+2120,"Godzilla, King of the Monsters!",13661,Godzilla: King of the Monsters
 3595,Flags of our Fathers,13675,Flags of Our Fathers
 909,Kiss Kiss Bang Bang,13705,"Kiss Kiss, Bang Bang"
 2546,The Joy Luck Club,13709,The Joy Luck Club
@@ -894,28 +1229,41 @@ ltable_id,ltable_title,rtable_id,rtable_title
 1347,Man on Fire,13768,Man on Fire
 1537,Pat Garrett & Billy the Kid,13774,Pat Garrett and Billy the Kid
 3108,Ali,13810,Ali
+3217,Indiscreet,13813,Indiscreet
+3615,Indie Game: The Movie,13818,Indie Game: The Movie
+1150,Deliverance,13850,Deliverance
 2586,Godzilla,13858,Godzilla
 59,Five Easy Pieces,13876,Five Easy Pieces
+2941,Journey to the Center of the Earth,13906,Journey to the Center of the Earth
+4283,The Journey of Natty Gann,13918,The Journey of Natty Gann
 3876,Nick of Time,13927,Nick of Time
 3374,Nick and Norah's Infinite Playlist,13928,Nick and Norah's Infinite Playlist
+2320,Niagara,13931,Niagara
+3622,Battle for the Planet of the Apes,13951,Battle for the Planet of the Apes
 3175,*batteries not included,13961,*batteries not included
 2242,Man of Steel,13972,Man of Steel
+2396,The Man in the White Suit,13975,The Man in the White Suit
 4195,The Legend of Bagger Vance,14001,The Legend of Bagger Vance
 3095,Alfie,14004,Alfie
+2833,Alexander Nevsky,14009,Alexander. Nevsky Battle
 967,Indiana Jones and the Temple of Doom,14015,Indiana Jones and the Temple of Doom
 198,Indiana Jones and the Last Crusade,14016,Indiana Jones and the Last Crusade
+3753,The Indian Runner,14018,The Indian Runner
 1500,Gods and Monsters,14043,Gods and Monsters
 55,The Godfather,14046,The Godfather
 1761,The Godfather: Part III,14047,The Godfather: Part III
 102,The Godfather: Part II,14048,The Godfather: Part II
 3403,Kinsey,14084,Kinsey
+1781,Only Angels Have Wings,14117,Only Angels Have Wings
 3855,Batman: Year One,14126,Batman Year One
+2292,Batman: The Movie,14134,Batman - The Movie
 2549,Batman: Under the Red Hood,14135,Batman: Under the Red Hood
 3805,"Batman: The Dark Knight Returns, Part 2",14138,"Batman: The Dark Knight Returns, Part 2"
 3662,"Batman: The Dark Knight Returns, Part 1",14142,"Batman: The Dark Knight Returns, Part 1"
 3500,The Man in the Moon,14143,The Man in the Moon
 2449,The Man in the Iron Mask,14150,The Man in the Iron Mask
 3243,The Man from U.N.C.L.E.,14158,The Man From U.N.C.L.E.
+2012,A Passage to India,14172,A Passage to India
 3977,Legally Blonde,14176,Legally Blonde
 942,Independence Day,14210,Independence Day
 2080,Eyes Wide Shut,14217,Eyes Wide Shut
@@ -924,14 +1272,19 @@ ltable_id,ltable_title,rtable_id,rtable_title
 271,A Fish Called Wanda,14271,A Fish Called Wanda
 3170,The Kings of Summer,14291,The Kings of Summer
 201,The King's Speech,14298,The Kingâ€™s Speech
+1859,Kingpin,14299,Kingpin
 3230,The Kingdom,14301,The Kingdom
 458,Batman: Mask of the Phantasm,14326,Batman: Mask of the Phantasm
 927,Batman Returns,14327,Batman Returns
 66,Batman Begins,14328,Batman Begins (IMAX)
 66,Batman Begins,14335,Batman Begins
+2305,The Man from Earth,14336,The Man From Earth
+765,A Man for All Seasons,14340,A Man for All Seasons
+3150,A Man Called Horse,14344,A Man Called Horse
 705,The Incredibles,14390,The Incredibles
 3058,The Incredible Hulk,14393,The Incredible Hulk
 4048,An Inconvenient Truth,14395,An Inconvenient Truth
+4202,Eye of the Needle,14408,Eye of the Needle
 612,Hedwig and the Angry Inch,14411,Hedwig and the Angry Inch
 3124,"Definitely, Maybe",14428,"Definitely, Maybe"
 951,Defending Your Life,14431,Defending Your Life
@@ -940,12 +1293,18 @@ ltable_id,ltable_title,rtable_id,rtable_title
 241,Batman,14511,Batman
 1766,The Party,14526,The Party
 1434,Leaving Las Vegas,14536,Leaving Las Vegas
+1390,Leave Her to Heaven,14539,Leave Her to Heaven
+2981,The Alamo,14543,The Alamo
+2022,Heaven's Gate,14574,Heaven's Gate
+2001,Heavy Metal,14575,Heavy Metal
 466,Heavenly Creatures,14583,Heavenly Creatures
 4184,First Knight,14626,First Knight
 3869,Center Stage,14636,Center Stage
+3642,King of the Hill,14656,King of the Hill
 2444,Newsies,14689,Newsies
 3872,Basquiat,14707,Basquiat
 1696,The Basketball Diaries,14709,The Basketball Diaries
+2920,Basket Case,14714,Basket Case
 3607,Basic Instinct,14715,Basic Instinct
 52,Aladdin,14744,Aladdin
 2172,Incendies,14759,Incendies
@@ -954,34 +1313,42 @@ ltable_id,ltable_title,rtable_id,rtable_title
 431,First Blood,14841,First Blood
 2008,The Firm,14842,The Firm
 3752,Cedar Rapids,14862,Cedar Rapids
+1263,King of New York,14865,King of New York
 1316,Johnny Guitar,14892,Johnny Guitar
 3903,New York Stories,14898,New York Stories
+2886,"New York, New York",14902,"New York, New York"
 3634,The One I Love,14922,The One I Love
 2377,BASEketball,14924,BASEketball
 11,Barton Fink,14928,Barton Fink
 577,Barry Lyndon,14935,Barry Lyndon
+1141,The Maltese Falcon,14942,The Maltese Falcon
 581,Mallrats,14950,Mallrats
 3472,Malice,14951,Malice
 2206,Lean on Me,14973,Lean on Me
 931,A League of Their Own,14974,A League of Their Own
 4120,In Time,15004,In Time
 3883,In the Valley of Elah,15005,In the Valley of Elah
+1593,Hearts of Darkness: A Filmmaker's Apocalypse,15031,Hearts of Darkness: A Filmmaker's Apocalypse
 352,Heat,15032,Heat
 3284,Hearts and Minds,15037,Hearts and Minds
 1631,Deconstructing Harry,15057,Deconstructing Harry
+2841,Firestarter,15079,Firestarter
 3853,Firefox,15080,Firefox
 3514,King Kong,15101,King Kong
 1116,King Kong,15104,King Kong
 2544,King Kong,15110,King Kong
+2147,Johnny Dangerously,15120,Johnny Dangerously
 1769,John Wick,15126,John Wick
 4171,John Q,15130,John Q
 2564,The New World,15137,The New World
 3094,One Hour Photo,15150,One Hour Photo
 166,One Flew Over the Cuckoo's Nest,15155,One Flew Over the Cuckoo's Nest
+2032,Barfly,15171,Barfly
 1418,Malcolm X,15181,Malcolm X
 548,"Paris, Texas",15193,"Paris, Texas"
 3144,Airport,15222,Airport
 64,Airplane!,15223,Airplane!
+2569,Airplane II: The Sequel,15225,Airplane II: The Sequel
 2990,Airheads,15227,Airheads
 1458,Air Force One,15237,Air Force One
 168,In the Name of the Father,15241,In the Name of the Father
@@ -990,71 +1357,111 @@ ltable_id,ltable_title,rtable_id,rtable_title
 2196,Explorers,15255,Explorers
 1896,Heartbreak Ridge,15267,Heartbreak Ridge
 392,Glory,15297,Glory
+4058,Gloria,15300,Gloria
 3234,Fire in the Sky,15315,Fire in the Sky
+4077,Fire and Ice,15319,Fire and Ice
+2919,Cat's Eye,15339,Cat's Eye
+1158,The King and I,15340,The King and I
 3682,Kindergarten Cop,15349,Kindergarten Cop
 4252,John Carter,15366,John Carter
 2231,Joe Versus the Volcano,15368,Joe Versus the Volcano
 2226,New Jack City,15378,New Jack City
+2308,One Crazy Summer,15398,One Crazy Summer
 2058,Barefoot in the Park,15406,Barefoot in the Park
+3092,The Barefoot Contessa,15407,The Barefoot Contessa
 3138,Barcelona,15414,Barcelona
+1374,Make Way for Tomorrow,15433,Make Way for Tomorrow
 1548,Parenthood,15441,Parenthood
 420,Lawrence of Arabia,15450,Lawrence of Arabia
+3,In the Heat of the Night,15477,In the Heat of the Night
 2325,Exotica,15493,Exotica
 112,The Exorcist,15496,The Exorcist
 2774,The Exorcist III,15497,The Exorcist III
 2913,Heart and Souls,15512,Heart and Souls
+2096,Deathtrap,15521,Deathtrap
+3931,Death Wish II,15526,Death Wish II
 2551,Finding Neverland,15562,Finding Neverland
 3148,Catfish,15567,Catfish
+2805,Joe Kidd,15588,Joe Kidd
 3397,Killing Them Softly,15591,Killing Them Softly
 2055,Never Say Never Again,15615,Never Say Never Again
 1649,Never Let Me Go,15618,Never Let Me Go
 2907,Once Upon a Time in Mexico,15632,Once Upon a Time in the Midlands
+3627,Make Mine Music,15644,Make Mine Music
 613,Major League,15657,Major League
+2419,The Parent Trap,15659,The Parent Trap
 2291,Lawless,15675,Lawless
 2389,ParaNorman,15679,ParaNorman
 2424,Law Abiding Citizen,15680,Law Abiding Citizen
 1944,In the Company of Men,15703,In the Company of Men
 1487,In the Bedroom,15710,In the Bedroom
+4273,Exodus,15717,Exodus
 990,Exit Through the Gift Shop,15728,Exit Through the Gift Shop
+1400,Death Wish,15747,Death Wish
 3488,Death to Smoochy,15752,Death to Smoochy
 1429,Death Race 2000,15754,Death Race 2000
 704,Glengarry Glen Ross,15768,Glengarry Glen Ross
 418,Finding Nemo,15776,Finding Nemo
 3539,Finding Forrester,15781,Finding Forrester
 39,Catch Me If You Can,15783,Catch Me if You Can
+1370,Catch-22,15787,Catch-22
+2945,Never Cry Wolf,15820,Never Cry Wolf
 4152,Never Been Kissed,15826,Never Been Kissed
+3045,Lagaan: Once Upon a Time in India,15837,Once Upon a Time in China
 488,Once Upon a Time in America,15840,Once Upon a Time in America
 2907,Once Upon a Time in Mexico,15841,Once Upon a Time in Mexico
 3409,The Majestic,15857,The Majestic
+4117,The Agony and the Ecstasy,15907,The Agony and the Ecstasy
 2235,eXistenZ,15933,eXistenZ
 1994,He Got Game,15954,He Got Game
 2641,Death on the Nile,15958,Death on the Nile
 460,Gladiator,15991,Gladiator
 3291,Cat People,16007,Cat People
+566,Cat on a Hot Tin Roof,16008,Cat on a Hot Tin Roof
+591,Cat People,16009,Cat People
+2796,Cat Ballou,16012,Cat Ballou
 2021,Casualties of War,16014,Casualties of War
 969,The Killers,16017,The Killers
+1220,The Killing Fields,16019,The Killing Fields
+2473,Killer Klowns from Outer Space,16024,Killer Klowns from Outer Space
+1002,Network,16036,Network
 396,Once,16060,Once
+2693,The Last Castle,16099,The Last Wave
 1346,The Age of Innocence,16113,The Age of Innocence
 3536,Executive Decision,16140,Executive Decision
 94,Cast Away,16212,Cast Away
+3405,Casino Royale,16213,Casino Royale
 2839,Killer Joe,16219,Killer Elite
 245,Casino Royale,16221,Casino Royale
+934,On the Waterfront,16262,On the Waterfront
 1720,On the Town,16263,On the Town
 2225,Barbarella,16279,Barbarella
+1244,Last Tango in Paris,16328,Last Tango in Paris
+297,The Last Temptation of Christ,16329,The Last Temptation of Christ
+2154,The Last Unicorn,16330,The Last Unicorn
+2126,The In-Laws,16357,The In-Laws
+383,The Haunting,16392,The Haunting
+1379,Excalibur,16396,Excalibur
 4190,Death and the Maiden,16401,Death and the Maiden
 3197,Death Becomes Her,16402,Death Becomes Her
 3034,Death at a Funeral,16405,Death at a Funeral
 1782,Dear Zachary: A Letter to a Son About His Father,16411,Dear Zachary: a letter to a son about his father
+4146,The Final Countdown,16443,The Final Countdown
 3975,Final Destination,16446,Final Destination
 14,Casino,16447,Casino
+1943,On the Beach,16505,On the Beach
 857,On Her Majesty's Secret Service,16512,On Her Majesty's Secret Service
 1325,On Golden Pond,16514,On Golden Pond
+1128,Magnum Force,16537,Magnum Force
 300,Magnolia,16538,Magnolia
+874,The Last Starfighter,16558,The Last Starfighter
+1079,Papillon,16559,Papillon
 1391,The Last Seduction,16571,The Last Seduction
 618,The Last Samurai,16575,The Last Samurai
 350,In Cold Blood,16595,In Cold Blood
 251,In Bruges,16601,In Bruges
 3775,Evita,16608,Evita
+4246,Evil Under the Sun,16610,Evil Under the Sun
 4091,Girl with a Pearl Earring,16633,Girl with a Pearl Earring
 328,The Girl with the Dragon Tattoo,16635,The Girl with the Dragon Tattoo
 476,Kill Bill: Vol. 2,16682,Kill Bill: Volume 2
@@ -1064,74 +1471,104 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3016,The Bank Job,16724,The Bank Job
 3486,Magic Mike,16750,Magic Mike
 3784,The Paper,16751,The Paper
+769,Paper Moon,16754,Paper Moon
+449,After Hours,16783,After Hours
 3744,In & Out,16789,In & Out
 240,The Last Picture Show,16797,The Last Picture Show
 4254,In a World...,16799,In a World...
+923,Evil Dead II,16811,Evil Dead II
 2633,Evil Dead,16816,Evil Dead
 2956,The Girl Next Door,16854,The Girl Next Door
 2375,Kids in the Hall: Brain Candy,16892,Kids in the Hall: Brain Candy
 3100,Needful Things,16910,Needful Things
+1918,The Omega Man,16922,The Omega Man
 686,The Omen,16923,The Omen
+2009,Magic,16954,Magic
 1594,The Last of the Mohicans,16965,The Last of the Mohicans
 3747,Last Night,16973,Last Night
 924,The African Queen,16984,The African Queen
 2984,The Imposter,16995,The Imposter
 1945,The Impossible,16997,The Impossible
 3618,The Importance of Being Earnest,16998,The Importance of Being Earnest
+851,Everything You Always Wanted to Know About Sex * But Were Afraid to Ask,17005,Everything You Always Wanted to Know
 2780,Everything Is Illuminated,17008,Everything is Illuminated
 1902,Everyone Says I Love You,17015,Everyone Says I Love You
 1007,The Hateful Eight,17022,The Hateful Eight
+2460,Hatari!,17024,Hatari!
 2179,"Girl, Interrupted",17045,"Girl, Interrupted"
 184,Deadpool,17046,Deadpool
+2960,Kids,17084,Kids
 2282,The Kids Are All Right,17087,The Kids Are All Right
+450,Near Dark,17109,Near Dark
 966,Nebraska,17112,Nebraska
 1394,Oliver!,17128,Oliver!
 3431,Oliver & Company,17132,Oliver & Company
+2515,Panic in the Streets,17167,Panic in the Streets
 2262,Panic Room,17170,Panic Room
 2588,Last Man Standing,17175,Last Man Standing
 2116,Immortal Beloved,17201,Immortal Beloved
 2954,Every Which Way But Loose,17214,Every Which Way but Loose
 604,The Fighter,17251,The Fighter
+447,Carrie,17260,Carrie
 2340,Cars,17262,Cars
 836,The Kid,17270,The Kid
 3071,The Kid Stays in the Picture,17271,The Kid Stays in the Picture
 1659,JFK,17280,JFK
 2341,The Jewel of the Nile,17285,The Jewel of the Nile
+1047,The Navigator,17302,The Navigator
 1764,Old School,17318,Old School
+1057,Bananas,17321,Bananas
 1383,Bambi,17329,Bambi
 3501,La Bamba,17330,La Bamba
 2290,The Madness of King George,17343,The Madness of King George
 4276,Pandorum,17349,Pandorum
 1393,The Last King of Scotland,17373,The Last King of Scotland
 2840,The Adventures of Tintin,17381,The Adventures of Tintin
+1833,Imitation of Life,17383,Imitation of Life
+4279,Imagine: John Lennon,17391,Imagine: John Lennon
 747,The Imitation Game,17394,The Imitation Game
+3380,The Harvey Girls,17418,The Harvey Girls
+1265,The Dead Zone,17435,The Dead Zone
+692,Gilda,17452,Gilda
 119,Fight Club,17455,Fight Club
 799,The Fifth Element,17468,The Fifth Element
 2927,Carol,17472,Carol
+1587,Carnal Knowledge,17478,Carnal Knowledge
 2713,Kicking and Screaming,17482,Kicking and Screaming
 3698,Kickboxer,17489,Kickboxer
 841,Kick-Ass,17497,Kick-Ass
 787,The Natural,17516,The Natural
+1695,The Old Dark House,17523,The Old Dark House
 2996,The Last House on the Left,17574,The Last House on the Left
+3300,The Adventures of Sherlock Holmes,17586,The Adventures of Sherlock Holmes
 1285,"The Adventures of Priscilla, Queen of the Desert",17588,"The Adventures of Priscilla, Queen of the Desert"
+2047,The Adventures of Ichabod and Mr. Toad,17597,The Adventures of Ichabod and Mr. Toad
+4092,The Adventures of Milo and Otis,17599,The Adventures of Mark Twain
 3375,The Imaginarium of Doctor Parnassus,17603,The Imaginarium of Doctor Parnassus
 2391,I'm Not There.,17609,Iâ€™m Not There
+3369,Ever After: A Cinderella Story,17620,Ever After: A Cinderella Story
 2137,Event Horizon,17621,Event Horizon
 1056,Harry Potter and the Sorcerer's Stone,17638,Harry Potter and the Sorcererâ€™s Stone
 46,Harry Potter and the Prisoner of Azkaban,17639,Harry Potter and the Prisoner of Azkaban
 1267,Harry Potter and the Order of the Phoenix,17644,Harry Potter and the Order of the Phoenix
+731,Dead Ringers,17650,Dead Ringers
 3134,Dead Presidents,17656,Dead Presidents
+2667,Gigi,17657,Gigi
 3854,The Gift,17663,The Gift
 4185,Fierce Creatures,17669,Fierce Creatures
 3782,The Gift,17670,The Gift
 603,Field of Dreams,17676,Field of Dreams
 3254,Carnage,17687,Carnage
+2004,Jesus Christ Superstar,17708,Jesus Christ Superstar
 3490,Jesus Camp,17712,Jesus Camp
 1315,Natural Born Killers,17721,Natural Born Killers
+3303,National Velvet,17727,National Velvet
 2428,National Treasure,17736,National Treasure
 622,Pale Rider,17782,Pale Rider
+1788,The Adventures of Buckaroo Banzai Across the 8th Dimension,17807,The Adventures of Buckaroo Banzai Across the 8th Dimension
 2883,I'm Gonna Git You Sucka,17814,I'm Gonna Git You Sucka
 1729,The Illusionist,17824,The Illusionist
+895,Harry Potter and the Goblet of Fire,17830,Harry Potter and the Goblet of Fire (IMAX)
 895,Harry Potter and the Goblet of Fire,17835,Harry Potter and the Goblet of Fire
 1726,Harry Potter and the Half-Blood Prince,17836,Harry Potter and the Half-Blood Prince
 1253,Harry Potter and the Chamber of Secrets,17837,Harry Potter and the Chamber of Secrets
@@ -1140,33 +1577,45 @@ ltable_id,ltable_title,rtable_id,rtable_title
 889,Harry Potter and the Deathly Hallows: Part 1,17843,Harry Potter and the Deathly Hallows: Part I
 2134,The Dead Pool,17848,The Dead Pool
 148,Dead Poets Society,17851,Dead Poets Society
+2360,Dead Men Don't Wear Plaid,17859,Dead Men Don't Wear Plaid
+156,Giant,17869,Giant
 459,Fiddler on the Roof,17880,Fiddler on the Roof
 413,A Few Good Men,17882,A Few Good Men
 1730,Carlito's Way,17891,Carlito's Way
 498,Jerry Maguire,17932,Jerry Maguire
 3845,"Oh, God!",17957,"Oh, God!"
+1875,The Ballad of Cable Hogue,17962,The Ballad of Cable Hogue
 3411,Made,17971,Made
 671,The Last Emperor,17993,The Last Emperor
 2867,The Painted Veil,17994,The Painted Veil
+1920,The Last Dragon,18002,The Last Dragon
+448,The Last Detail,18004,The Last Detail
 2915,The Last Days of Disco,18010,The Last Days of Disco
 1432,Adventures in Babysitting,18023,Adventures in Babysitting
 4033,EuroTrip,18032,Eurotrip
+3249,Harper,18050,Harper
 1924,Harold & Kumar Go to White Castle,18054,Harold & Kumar Go to White Castle
 1261,Dead Man Walking,18060,Dead Man Walking
+132,Key Largo,18104,Key Largo
 468,The Jerk,18120,The Jerk
+1417,Jeremiah Johnson,18125,Jeremiah Johnson
+1653,Mad Max Beyond Thunderdome,18172,Mad Max Beyond Thunderdome
 35,Mad Max: Fury Road,18180,Mad Max: Fury Road
 2693,The Last Castle,18204,The Last Castle
 1926,Adventureland,18207,Adventureland
 3205,Hardware,18261,Hardware
+1901,Dead Calm,18274,Dead Calm
 703,Ghostbusters II,18286,Ghostbusters II
 1472,Ghost World,18289,Ghost World
 294,Ghostbusters,18290,Ghostbusters
 1909,The Ghost Writer,18292,The Ghost Writer
 465,Ferris Bueller's Day Off,18294,Ferris Bueller's Day Off
+1836,The Kentucky Fried Movie,18318,The Kentucky Fried Movie
 1009,National Lampoon's Vacation,18336,National Lampoonâ€™s Vacation
 2604,National Lampoon's European Vacation,18346,National Lampoon's European Vacation
 1795,An Officer and a Gentleman,18350,An Officer and a Gentleman
 307,Office Space,18356,Office Space
+3541,Quo Vadis,18390,Quo Vadis?
 2016,The Last Boy Scout,18393,The Last Boy Scout
 3070,Last Action Hero,18398,Last Action Hero
 2073,The Adjustment Bureau,18427,The Adjustment Bureau
@@ -1174,11 +1623,16 @@ ltable_id,ltable_title,rtable_id,rtable_title
 583,Eternal Sunshine of the Spotless Mind,18442,Eternal Sunshine of the Spotless Mind
 614,E.T. the Extra-Terrestrial,18451,ET: The Extra-Terrestrial
 3647,The Hard Way,18455,The Hard Way
+3447,Hard Times,18456,Hard Times
+1894,Dead & Buried,18463,Dead and Buried
 3285,Hard Target,18464,Hard Target
 899,The Raid 2,18469,The Dead 2
 1120,Dead Again,18472,Dead Again
+3171,Ghost Story,18485,Ghost Story
+3083,Ghost in the Shell 2: Innocence,18494,Ghost in the Shell 2: Innocence
 3792,Femme Fatale,18507,Femme Fatale
 1565,Capturing the Friedmans,18523,Capturing the Friedmans
+856,Kelly's Heroes,18529,Kelly's Heroes
 4004,Keeping the Faith,18541,Keeping the Faith
 1075,National Lampoon's Christmas Vacation,18562,National Lampoon's Christmas Vacation
 1214,The Machinist,18609,The Machinist
@@ -1189,11 +1643,16 @@ ltable_id,ltable_title,rtable_id,rtable_title
 4110,P.S. I Love You,18638,P.S. I Love You
 551,Quiz Show,18640,Quiz Show
 3265,Quigley Down Under,18645,Quigley Down Under
+974,The Quiet Man,18646,The Quiet Man
 2200,Quills,18647,Quills
+3639,The Quiet Earth,18650,The Quiet Earth
 1444,Lars and the Real Girl,18657,Lars and the Real Girl
 405,A Hard Day's Night,18710,A Hard Day's Night
 906,Dazed and Confused,18725,Dazed and Confused
+2156,Days of Wine and Roses,18730,Days of Wine and Roses
 3670,Days of Thunder,18733,Days of Thunder
+195,Days of Heaven,18735,Days of Heaven
+2042,Gates of Heaven,18735,Days of Heaven
 2691,The Ghost and the Darkness,18745,The Ghost and the Darkness
 2099,Ghost,18749,Ghost
 1419,Captain Phillips,18777,Captain Phillips
@@ -1213,28 +1672,39 @@ ltable_id,ltable_title,rtable_id,rtable_title
 715,Captain America: The First Avenger,18994,Captain America: The First Avenger
 626,Captain America: The Winter Soldier,18995,Captain America: The Winter Soldier
 1956,Capote,18998,Capote
+4209,The Jazz Singer,19028,The Jazz Singer
 3640,JCVD,19029,JCVD
 2334,Narc,19038,Narc
+2203,Odd Man Out,19048,Odd Man Out
 42,The Odd Couple,19049,The Odd Couple
 2044,Octopussy,19050,Octopussy
 1865,October Sky,19060,October Sky
+832,The Bad News Bears,19063,The Bad News Bears
 2017,The Queen,19096,The Queen
 2480,The Land Before Time,19116,The Land Before Time
+2155,Escape from the Planet of the Apes,19147,Escape from the Planet of the Apes
 3546,Escape from L.A.,19153,Escape from L.A.
 786,Escape from New York,19154,Escape from New York
 312,Escape from Alcatraz,19155,Escape from Alcatraz
 2295,Happy-Go-Lucky,19165,Happy-Go-Lucky
 507,Happy Gilmore,19167,Happy Gilmore
+435,The Day of the Jackal,19179,The Day of the Jackal
+435,The Day of the Jackal,19183,The Day of the Dolphin
 1895,Gettysburg,19187,Gettysburg
+1758,Fearless,19206,Fearless
 657,Cape Fear,19219,Cape Fear
 1927,Jay and Silent Bob Strike Back,19252,Jay and Silent Bob Strike Back
 1721,Napoleon Dynamite,19264,Napoleon Dynamite
 2036,Ocean's Thirteen,19277,Ocean's Thirteen
 1877,Ocean's Twelve,19279,Ocean's Twelve
 497,Ocean's Eleven,19281,Ocean's Eleven
+1453,Bad Lieutenant,19287,Bad Lieutenant
 2520,Bad Lieutenant: Port of Call New Orleans,19291,Bad Lieutenant: Port of Call New Orleans
 1800,The Ice Storm,19331,The Ice Storm
+3424,Happy Birthday to Me,19359,Happy Birthday To Me
+655,Day of the Dead,19367,Day of the Dead
 4141,The Day After Tomorrow,19378,The Day After Tomorrow
+917,The Getaway,19380,The Getaway
 1127,Dawn of the Planet of the Apes,19387,Dawn of the Planet of the Apes
 2090,Get Shorty,19389,Get Shorty
 335,Fear and Loathing in Las Vegas,19404,Fear and Loathing in Las Vegas
@@ -1249,6 +1719,7 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3774,Bad Boys II,19490,Bad Boys II
 2088,Across the Universe,19529,Across the Universe
 3055,Erin Brockovich,19568,Erin Brockovich
+1511,Happiness,19571,Happiness
 500,Shaun of the Dead,19582,Dawn of the Dead
 1739,Dawn of the Dead,19582,Dawn of the Dead
 3101,Get Him to the Greek,19604,Get Him to the Greek
@@ -1256,15 +1727,21 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3559,The Fault in Our Stars,19632,The Fault in Our Stars
 1980,Candyman,19634,Candyman
 2958,Jarhead,19668,Jarhead
+1376,The Name of the Rose,19687,The Name of the Rose
 702,Naked Lunch,19695,Naked Lunch
+3090,Bad Boys,19707,Bad Boys
 2330,Bad Boys,19710,Bad Boys
 1960,Quantum of Solace,19732,Quantum of Solace
+3786,The Lair of the White Worm,19743,The Lair of the White Worm
 790,Ace Ventura: Pet Detective,19762,Ace Ventura: Pet Detective
 2024,Ace Ventura: When Nature Calls,19763,Ace Ventura: When Nature Calls
 2048,Ice Age,19767,Ice Age
+3692,I Was a Male War Bride,19773,I Was a Male War Bride
+4150,I Want to Live!,19774,I Want To Live!
 973,Eraserhead,19783,Eraserhead
 3610,Hannibal,19811,Hannibal
 1187,Dave,19815,Dave
+3002,Father of the Bride,19850,Father of the Bride
 2083,Father of the Bride,19852,Father of the Bride
 757,The Karate Kid,19877,The Karate Kid
 2463,The Karate Kid Part II,19878,"The Karate Kid, Part II"
@@ -1273,11 +1750,14 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3877,Naked Gun 33 1/3: The Final Insult,19899,Naked Gun 33 1/3: The Final Insult
 2708,The Naked Gun 2½: The Smell of Fear,19900,The Naked Gun 2Â½: The Smell of Fear
 496,"O Brother, Where Art Thou?",19932,"O Brother, Where Art Thou?"
+916,Ladyhawke,19963,Ladyhawke
+274,Ace in the Hole,19975,Ace in the Hole
 2370,The Accused,19985,The Accused
 1553,Equilibrium,20003,Equilibrium
 547,Hannah and Her Sisters,20022,Hannah and Her Sisters
 1864,Hanna,20031,Hanna
 2435,George Washington,20058,George Washington
+2537,Father Goose,20064,Father Goose
 2710,Fatal Attraction,20075,Fatal Attraction
 3756,James and the Giant Peach,20123,James and the Giant Peach
 2176,Backdraft,20145,Backdraft
@@ -1290,22 +1770,34 @@ ltable_id,ltable_title,rtable_id,rtable_title
 286,The Abyss,20187,The Abyss
 2148,"I, Robot",20203,"I, Robot"
 45,The Hangover,20230,The Hangover
+764,My Darling Clementine,20232,My Darling Clementine
 1457,Darkman,20244,Darkman
+1066,Gentlemen Prefer Blondes,20251,Gentlemen Prefer Blondes
+1990,Gentleman's Agreement,20257,Gentleman's Agreement
+1531,"Faster, Pussycat! Kill! Kill!",20272,"Faster, Pussycat! Kill! Kill!"
 2706,Camelot,20281,Camelot
 2581,Bachelor Party,20340,Bachelor Party
+824,Labyrinth,20350,Labyrinth
 3458,Absolute Power,20366,Absolute Power
+3174,I Married a Witch,20369,I Married a Witch
 229,Enter the Dragon,20390,Enter the Dragon
+1816,Hang 'Em High,20394,Hang 'em High
 3841,The Hand That Rocks the Cradle,20406,The Hand That Rocks the Cradle
+877,Fast Times at Ridgemont High,20436,Fast Times at Ridgemont High
 3934,"Fast, Cheap & Out of Control",20446,"Fast, Cheap & Out of Control"
 2270,Calvary,20451,Calvary
 2417,Fast Five,20453,Fast Five
 2368,Kalifornia,20474,Kalifornia
+2879,Jailhouse Rock,20479,Jailhouse Rock
+3223,The Bachelor and the Bobby-Soxer,20486,The Bachelor and the Bobby-Soxer
 3964,Jagged Edge,20489,Jagged Edge
+3024,Absence of Malice,20517,Absence of Malice
 3290,I Love You to Death,20525,I Love You to Death
 771,"I Love You, Man",20530,"I Love You, Man"
 3076,Enron: The Smartest Guys in the Room,20532,Enron: The Smartest Guys in the Room
 3363,Enough Said,20537,Enough Said
 3818,Hancock,20543,Hancock
+947,Dark Passage,20558,Dark Passage
 3611,The Fast and the Furious,20582,The Fast and the Furious
 3297,Fast & Furious 6,20589,Fast and Furious 6
 1665,Jacob's Ladder,20633,Jacob's Ladder
@@ -1315,27 +1807,37 @@ ltable_id,ltable_title,rtable_id,rtable_title
 167,The Dark Knight,20711,The Dark Knight
 1001,Fargo,20726,Fargo
 2178,Destroy All Monsters,20741,Destroy all Monsters
+3919,Invasion of Astro-Monster,20744,Invasion of Astro-Monster
+4097,About Last Night...,20770,About Last Night...
 3502,About Schmidt,20774,About Schmidt
 1524,About a Boy,20780,About a Boy
+1348,The Enforcer,20793,The Enforcer
 2522,The English Patient,20798,The English Patient
 2677,Hamburger Hill,20800,Hamburger Hill
 3292,Hamlet,20802,Hamlet
 4269,The Dark Half,20804,The Dark Half
+2489,California Split,20839,California Split
+568,Kagemusha,20847,Kagemusha
 4281,Kafka,20848,Kafka
 127,Jackie Brown,20859,Jackie Brown
 2865,Jackass: The Movie,20865,Jackass: The Movie
 4175,Jackass Number Two,20867,Jackass: Number Two
 1501,L.A. Story,20890,L.A. Story
+2158,The Sea Inside,20906,The I Inside
 1556,The Dark Crystal,20925,The Dark Crystal
 111,Dark City,20929,Dark City
 2934,The Jackal,20968,The Jackal
 2892,Babel,20979,Babel
 385,L.A. Confidential,20981,L.A. Confidential
 2533,I Heart Huckabees,20993,I Heart Huckabees
+2800,Enemy Mine,20998,Enemy Mine
+1343,Halloween II,20999,Halloween II
 580,Enemy of the State,21000,Enemy of the State
 2939,Halloween 4: The Return of Michael Myers,21003,Halloween 4: The Return of Michael Myers
+4154,Halloween III: Season of the Witch,21005,Halloween 3: Season of the Witch
 1734,The Darjeeling Limited,21017,The Darjeeling Limited
 1455,Far from Heaven,21035,Far From Heaven
+1470,The Caine Mutiny,21039,The Caine Mutiny
 3540,Jack Reacher,21074,Jack Reacher
 3078,Babe,21080,Babe
 2165,Enemy at the Gates,21107,Enemy at the Gates
@@ -1344,24 +1846,32 @@ ltable_id,ltable_title,rtable_id,rtable_title
 1966,Fantastic Voyage,21157,Fantastic Voyage
 169,Fantastic Mr. Fox,21160,Fantastic Mr. Fox
 1159,The Babadook,21203,The Babadook
+1885,I Confess,21233,I Confess
 1771,Half Nelson,21243,Half Nelson
 2715,Half Baked,21247,Half Baked
+2093,The Gauntlet,21261,The Gauntlet
 270,Fantasia,21271,Fantasia
+745,Caddyshack,21281,Caddyshack
 3181,The A-Team,21334,The A-Team
 4068,Ender's Game,21353,Ender's Game
+2592,Hairspray,21360,Hairspray
 569,End of Watch,21361,End of Watch
+2571,Hair,21366,Hair
 871,Gattaca,21385,Gattaca
 3748,The Gate,21393,The Gate
 3959,Fanboys,21403,Fanboys
 2716,The Cable Guy,21410,The Cable Guy
 1058,The Cabin in the Woods,21412,The Cabin in the Woods
+1022,Cabaret,21417,Cabaret
 2812,I Am Sam,21443,I Am Sam
 4288,The End of the Tour,21451,The End of the Tour
 3731,The End of the Affair,21458,The End of the Affair
 630,Dangerous Liaisons,21473,Dangerous Liaisons
+3332,C.H.U.D.,21501,C.H.U.D.
 791,I Am Legend,21520,I am Legend
 4172,Encino Man,21560,Encino Man
 1330,Dances with Wolves,21578,Dances with Wolves
+2230,Family Plot,21588,Family Plot
 767,Garden State,21590,Garden State
 4240,The Family Man,21596,The Family Man
 3583,Enchanted,21614,Enchanted
@@ -1369,18 +1879,24 @@ ltable_id,ltable_title,rtable_id,rtable_title
 1436,Empire Records,21653,Empire Records
 120,Empire of the Sun,21654,Empire of the Sun
 3350,Hackers,21659,Hackers
+2562,Fame,21688,Fame
 1564,The Emperor's New Groove,21696,The Emperor's New Groove
 3423,Dan in Real Life,21718,Dan in Real Life
 2253,The Damned United,21725,The Damned United
+2748,Damien: Omen II,21726,Damien: Omen II
 380,Gangs of New York,21738,Gangs of New York
 1132,Falling Down,21745,Falling Down
 1424,Gandhi,21772,Gandhi
 2145,Emma,21780,Emma
 1381,Dallas Buyers Club,21794,Dallas Buyers Club
 2131,Fallen,21798,Fallen
+3677,The Emerald Forest,21809,The Emerald Forest
 467,The Game,21826,The Game
+2524,The Falcon and the Snowman,21836,The Falcon and the Snowman
 2968,Elysium,21855,Elysium
 3466,Fahrenheit 9/11,21891,Fahrenheit 9/11
+1897,Elmer Gantry,21914,Elmer Gantry
+955,Gallipoli,21932,Gallipoli
 1492,Galaxy Quest,21936,Galaxy Quest
 2717,The Faculty,21945,The Faculty
 1522,Elizabeth,22004,Elizabeth
@@ -1388,18 +1904,30 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3121,The Da Vinci Code,22022,The Da Vinci Code
 2625,The Fabulous Baker Boys,22043,The Fabulous Baker Boys
 925,Elf,22057,Elf
+3220,F/X,22068,F/X
+254,The Elephant Man,22076,The Elephant Man
 1935,Elephant,22088,Elephant
 904,Election,22122,Election
+1578,El Dorado,22126,El Dorado
+1693,Eight Men Out,22155,Eight Men Out
+2943,The Eiger Sanction,22160,The Eiger Sanction
 891,Edward Scissorhands,22191,Edward Scissorhands
+3604,Educating Rita,22193,Educating Rita
 579,An Education,22196,An Education
 2347,The Edge,22203,The Edge
 191,Edge of Tomorrow,22209,Edge of Tomorrow
 3438,Eden Lake,22216,Eden Lake
 2443,Eddie Murphy: Raw,22224,Eddie Murphy Raw
+3544,Eddie and the Cruisers,22227,Eddie and the Cruisers
 190,Ed Wood,22229,Ed Wood
+1233,L'Eclisse,22240,L'eclisse
+3974,Eating Raoul,22254,Eating Raoul
 3377,Eat Drink Man Woman,22263,Eat Drink Man Woman
+95,Easy Rider,22273,Easy Rider
 1016,Easy A,22278,Easy A
+1154,Easter Parade,22281,Easter Parade
 1467,Eastern Promises,22283,Eastern Promises
+3812,Looking for Mr. Goodbar,22328,Looking for Mr. Goodbar
 3216,Pollock,22340,Pollock
 78,Poltergeist,22344,Poltergeist
 1351,Bill & Ted's Excellent Adventure,22356,Bill & Ted's Excellent Adventure
@@ -1413,25 +1941,39 @@ ltable_id,ltable_title,rtable_id,rtable_title
 706,Stranger Than Fiction,22506,Stranger Than Fiction
 3195,Syriana,22522,Syriana
 854,"Synecdoche, New York",22523,"Synecdoche, New York"
+770,The Sword in the Stone,22539,The Sword in the Stone
+1941,Swiss Family Robinson,22547,Swiss Family Robinson
 782,Swingers,22555,Swingers
 3598,Swing Kids,22560,Swing Kids
 3296,Swimming Pool,22567,Swimming Pool
 492,The Sweet Hereafter,22603,The Sweet Hereafter
 1796,Sweet and Lowdown,22611,Sweet and Lowdown
 1723,Sweeney Todd: The Demon Barber of Fleet Street,22617,Sweeney Todd: The Demon Barber of Fleet Street
+33,Suspicion,22648,Suspicion
+1240,The Sure Thing,22693,The Sure Thing
 725,Superman,22725,Superman
 316,Superbad,22744,Superbad
+3388,Super Size Me,22747,Super Size Me
+2481,Super,22757,Super
 1692,Super 8,22761,Super
 1692,Super 8,22763,Super 8
 1770,Sunshine,22771,Sunshine
 445,Sunrise,22776,Sunrise
+3510,Summer Rental,22812,Summer Rental
 3801,Summer School,22814,Summer School
 2930,Summer of Sam,22815,Summer of Sam
+4013,Summer of '42,22820,Summer of '42
 2421,The Sugarland Express,22858,The Sugarland Express
+2767,"Suddenly, Last Summer",22874,"Suddenly, Last Summer"
 2426,Sudden Impact,22876,Sudden Impact
+1817,The Stunt Man,22917,The Stunt Man
 512,Stripes,22944,Stripes
+1940,Streets of Fire,22962,Streets of Fire
+672,A Streetcar Named Desire,22964,A Streetcar Named Desire
 839,Strangers on a Train,23019,Strangers on a Train
+508,Stranger Than Paradise,23026,Stranger Than Paradise
 1433,Strange Days,23045,Strange Days
+980,Straight Outta Compton,23053,Straight Outta Tompkins
 1558,The Straight Story,23054,The Straight Story
 980,Straight Outta Compton,23056,Straight Outta Compton
 3733,Stories We Tell,23089,Stories We Tell
@@ -1441,13 +1983,19 @@ ltable_id,ltable_title,rtable_id,rtable_title
 339,The Sting,23135,The Sting
 2185,Stir of Echoes,23138,Stir of Echoes
 1839,Steve Jobs,23177,Steve Jobs
+2146,The Stepford Wives,23185,The Stepford Wives
+3629,The Stepfather,23186,The Stepfather
 2171,Step Brothers,23205,Step Brothers
+4234,Stella Dallas,23207,Stella Dallas
 2653,Steel Magnolias,23217,Steel Magnolias
 658,"Steamboat Bill, Jr.",23227,"Steamboat Bill, Jr."
 885,The Station Agent,23263,The Station Agent
+2530,State of Grace,23271,State of Grace
 3349,State of Play,23272,State of Play
 2216,State and Main,23277,State and Main
 546,Starship Troopers,23295,Starship Troopers
+1118,Starman,23302,Starman
+1601,Stardust Memories,23309,Stardust Memories
 1100,Stargate,23310,Stargate
 2133,Stardust,23313,Stardust
 87,Star Wars: Episode VI - Return of the Jedi,23320,Star Wars Ep. VI: Return of the Jedi
@@ -1459,6 +2007,7 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3653,Star Trek V: The Final Frontier,23327,Star Trek V: The Final Frontier
 1733,Star Trek VI: The Undiscovered Country,23328,Star Trek VI: The Undiscovered Country
 2741,Star Wars: Episode I - The Phantom Menace,23329,Star Wars Ep. I: The Phantom Menace
+1586,Star Trek: The Motion Picture,23331,Star Trek: The Motion Picture
 1020,Star Trek IV: The Voyage Home,23333,Star Trek IV: The Voyage Home
 1405,Star Trek III: The Search for Spock,23334,Star Trek III: The Search for Spock
 3810,Star Trek: Insurrection,23335,Star Trek: Insurrection
@@ -1467,11 +2016,14 @@ ltable_id,ltable_title,rtable_id,rtable_title
 2092,Star Trek: Generations,23338,Star Trek: Generations
 1748,Star Trek: First Contact,23339,Star Trek: First Contact
 16,Star Trek,23347,Star Trek
+1140,A Star Is Born,23350,A Star is Born
 83,Stand by Me,23373,Stand by Me
 2950,Stand and Deliver,23375,Stand and Deliver
 3266,Stakeout,23382,Stakeout
+1992,St. Elmo's Fire,23401,St. Elmoâ€™s Fire
 4194,St. Vincent,23404,St. Vincent
 1714,The Squid and the Whale,23411,The Squid and the Whale
+1422,The Spy Who Came in from the Cold,23421,The Spy Who Came in from the Cold
 808,The Spy Who Loved Me,23422,The Spy Who Loved Me
 2482,Spy Game,23430,Spy Game
 2384,Splash,23474,Splash
@@ -1483,14 +2035,28 @@ ltable_id,ltable_title,rtable_id,rtable_title
 2228,The Spectacular Now,23543,The Spectacular Now
 2621,Spectre,23547,Spectre
 3324,Spartan,23561,Spartan
+93,Spartacus,23562,Spartacus
 428,Spaceballs,23584,Spaceballs
 3051,Space Jam,23591,Space Jam
+1337,Soylent Green,23605,Soylent Green
+1915,Southern Comfort,23616,Southern Comfort
 265,"South Park: Bigger, Longer & Uncut",23622,"South Park: Bigger, Longer & Uncut"
 1041,Source Code,23636,Source Code
 562,The Sound of Music,23644,The Sound of Music
+2925,"Sorry, Wrong Number",23676,"Sorry, Wrong Number"
 794,Sorcerer,23685,Sorcerer
+522,Sophie's Choice,23687,Sophie's Choice
+1728,The Sons of Katie Elder,23701,The Sons of Katie Elder
+2890,Song of the South,23720,Song of the South
+4053,The Song of Bernadette,23725,The Song of Bernadette
+1876,Somewhere in Time,23760,Somewhere in Time
+1377,Something Wild,23767,Something Wild
+2740,Something Wicked This Way Comes,23768,Something Wicked This Way Comes
 4239,Something's Gotta Give,23770,Something's Gotta Give
 3866,Somewhere,23771,Somewhere
+1137,Some Like It Hot,23796,Some Like it Hot
+1019,Some Kind of Wonderful,23802,Some Kind of Wonderful
+2548,A Soldier's Story,23830,A Soldier's Story
 3257,Solaris,23837,Solaris
 3605,Soapdish,23861,Soapdish
 100,The Social Network,23862,The Social Network
@@ -1498,6 +2064,7 @@ ltable_id,ltable_title,rtable_id,rtable_title
 313,Snow White and the Seven Dwarfs,23888,Snow White and the Seven Dwarfs
 1353,Sneakers,23919,Sneakers
 272,Snatch,23921,Snatch
+3914,The Snake Pit,23925,The Snake Pit
 1011,Smokey and the Bandit,23951,Smokey and the Bandit
 2181,Smoke,23958,Smoke
 3849,Slums of Beverly Hills,23992,Slums of Beverly Hills
@@ -1508,10 +2075,14 @@ ltable_id,ltable_title,rtable_id,rtable_title
 971,Sleepy Hollow,24023,Sleepy Hollow
 4200,Sleepwalk with Me,24029,Sleepwalk With Me
 2183,Sleepless in Seattle,24030,Sleepless in Seattle
+663,Sleeping Beauty,24039,Sleeping Beauty
 1950,Sleepers,24040,Sleepers
+34,Sleeper,24041,Sleeper
+815,Slap Shot,24063,Slap Shot
 821,Slacker,24074,Slacker
 268,Skyfall,24085,Skyfall
 3524,The Skeleton Twins,24115,The Skeleton Twins
+446,Sixteen Candles,24129,Sixteen Candles
 304,The Sixth Sense,24132,The Sixth Sense
 2188,Six Degrees of Separation,24140,Six Degrees of Separation
 3575,Sister Act,24171,Sister Act
@@ -1519,17 +2090,25 @@ ltable_id,ltable_title,rtable_id,rtable_title
 1414,Singles,24194,Singles
 728,A Single Man,24196,A Single Man
 3829,Sinister,24197,Sinister
+19,Singin' in the Rain,24203,Singin' in the Rain
 3655,Sin Nombre,24238,Sin Nombre
 171,Sin City,24241,Sin City
 2100,The Simpsons Movie,24247,The Simpsons Movie
 1624,A Simple Plan,24249,A Simple Plan
 1614,Silver Streak,24263,Silver Streak
+962,Silverado,24265,Silverado
+2898,Silver Bullet,24271,Silver Bullet
+914,Silkwood,24276,Silkwood
 976,Silver Linings Playbook,24285,Silver Linings Playbook
 3091,Tyrannosaur,24292,Tyrannosaur
+3269,"Silent Night, Deadly Night",24300,"Silent Night, Deadly Night"
+2094,Silent Movie,24302,Silent Movie
 262,The Silence of the Lambs,24334,The Silence of the Lambs
 1459,Signs,24344,Signs
+1743,Two Mules for Sister Sara,24353,Two Mules for Sister Sara
 1312,Sideways,24396,Sideways
 2153,Side Effects,24400,Side Effects
+1050,Sid and Nancy,24402,Sid & Nancy
 3021,Twister,24412,Twister
 3457,Twins,24418,Twins
 3549,Sicko,24420,Sicko
@@ -1537,11 +2116,13 @@ ltable_id,ltable_title,rtable_id,rtable_title
 1506,Sicario,24434,Sicario
 1443,Twilight Zone: The Movie,24438,Twilight Zone: The Movie
 623,Shutter Island,24475,Shutter Island
+2420,Twelve O'Clock High,24487,Twelve O'Clock High
 774,Twelve Monkeys,24489,Twelve Monkeys
 233,Shrek,24504,Shrek
 2700,Shrek 2,24506,Shrek 2
 3449,Turner & Hooch,24546,Turner & Hooch
 2579,Shotgun Stories,24569,Shotgun Stories
+668,A Shot in the Dark,24575,A Shot in the Dark
 3816,Shortbus,24581,Shortbus
 1439,Short Term 12,24596,Short Term 12
 136,Short Cuts,24602,Short Cuts
@@ -1552,13 +2133,17 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3851,Shooter,24640,Shooter
 3229,Shoot to Kill,24641,Shoot to Kill
 3327,Shoot 'Em Up,24651,Shoot 'Em Up
+2819,Shoah,24671,Shoah
 231,The Shining,24691,The Shining
 1917,Shine,24711,Shine
 1098,The Truman Show,24721,The Truman Show
+4024,True Stories,24731,True Stories
 213,True Romance,24734,True Romance
 351,True Lies,24739,True Lies
+1163,True Grit,24750,True Grit
 4208,True Crime,24751,True Crime
 143,True Grit,24757,True Grit
+3157,She's Gotta Have It,24784,She's Gotta Have It
 4060,She's Having a Baby,24785,She's Having a Baby
 2714,Troy,24800,Troy
 777,The Trouble with Harry,24809,The Trouble with Harry
@@ -1566,20 +2151,28 @@ ltable_id,ltable_title,rtable_id,rtable_title
 1442,Sherlock Holmes,24812,Sherlock Holmes
 1199,Tropic Thunder,24840,Tropic Thunder
 2589,TRON: Legacy,24855,Tron: Legacy
+759,She Wore a Yellow Ribbon,24863,She Wore a Yellow Ribbon
 71,The Shawshank Redemption,24891,The Shawshank Redemption
 500,Shaun of the Dead,24899,Shaun of the Dead
 1739,Dawn of the Dead,24899,Shaun of the Dead
 4232,Tristana,24902,Tristana
 2631,Shattered Glass,24906,Shattered Glass
 3394,Shanghai Noon,24987,Shanghai Noon
+826,Shane,24990,Shane
+2928,Shampoo,24998,Shampoo
 1292,Shame,25003,Shame
 1359,Tremors,25021,Tremors
 1256,Shakespeare in Love,25031,Shakespeare in Love
 2688,Trees Lounge,25039,Trees Lounge
+1484,The Tree of Life,25041,The Tree
 1484,The Tree of Life,25046,The Tree of Life
+2238,Shaft,25051,Shaft
+560,The Treasure of the Sierra Madre,25058,The Treasure of the Sierra Madre
 3857,Treasure Planet,25059,Treasure Planet
+3785,Shadowlands,25071,Shadowlands
 1609,Shadow of the Vampire,25089,Shadow of the Vampire
 2392,The Transporter,25119,The Transporter
+1589,The Transformers: The Movie,25132,The Transformers: The Movie
 2725,Transformers,25141,Transformers
 3798,Trance,25157,Trance
 128,Trainspotting,25161,Trainspotting
@@ -1589,45 +2182,61 @@ ltable_id,ltable_title,rtable_id,rtable_title
 606,Traffic,25202,Traffic
 301,Trading Places,25205,Trading Places
 4221,The Seventh Sign,25222,The Seventh Sign
+438,The Seven Year Itch,25228,The Seven Year Itch
 3636,Seven Years in Tibet,25233,Seven Years in Tibet
 3864,Seven Pounds,25251,Seven Pounds
 1474,Seven Psychopaths,25252,Seven Psychopaths
 3557,Toy Soldiers,25257,Toy Soldiers
 809,Toy Story,25259,Toy Story
+2545,The Toxic Avenger,25260,The Toxic Avenger
 0,Toy Story 2,25261,Toy Story 2
 356,Toy Story 3,25263,Toy Story 3
+861,Seven Brides for Seven Brothers,25268,Seven Brides for Seven Brothers
 823,The Town,25280,The Town
 1675,The Towering Inferno,25286,Towering Inferno
 1908,Session 9,25313,Session 9
+744,Serpico,25316,Serpico
 3619,The Sessions,25318,The Sessions
 3896,The Serpent and the Rainbow,25321,The Serpent and the Rainbow
 3713,Serial Mom,25340,Serial Mom
 989,A Serious Man,25343,A Serious Man
+1083,Sergeant York,25344,Sergeant York
 484,Touch of Evil,25358,Touch of Evil
 3596,Serendipity,25364,Serendipity
 219,Serenity,25366,Serenity
 649,Total Recall,25385,Total Recall
 1997,Ruthless People,25406,Ruthless People
+3657,The Russians Are Coming! The Russians Are Coming!,25412,"The Russians Are Coming, the Russians Are Coming"
 379,Rushmore,25448,Rushmore
+2768,Torn Curtain,25449,Torn Curtain
 1603,Sense and Sensibility,25469,Sense and Sensibility
 1831,Rush Hour,25475,Rush Hour
 3970,Rush,25476,Rush
 3047,Rush Hour 2,25477,Rush Hour 2
 850,Rush,25479,Rush
+1618,Top Secret!,25510,Top Secret!
+443,Top Hat,25512,Top Hat
 987,Top Gun,25517,Top Gun
 888,Tootsie,25518,Tootsie
 2636,Running Scared,25534,Running Scared
 3918,Running Scared,25535,Running Scared
+2066,Running on Empty,25538,Running on Empty
 1360,The Running Man,25540,The Running Man
 2654,Wyatt Earp,25572,Wyatt Earp
 2737,The Rundown,25576,The Rundown
+2260,Runaway Train,25580,Runaway Train
 3721,Runaway Jury,25581,Runaway Jury
+3428,Seems Like Old Times,25604,Seems Like Old Times
 2952,Seeking a Friend for the End of the World,25612,Seeking a Friend for the End of the World
+2629,Tommy,25632,Tommy
 753,Tommy Boy,25633,Tommy Boy
 3696,Tomorrow Never Dies,25634,Tomorrow Never Dies
 555,Tombstone,25641,Tombstone
+3527,Tom Jones,25676,Tom Jones
 2606,"See No Evil, Hear No Evil",25688,"See No Evil, Hear No Evil"
+1322,Rumble Fish,25701,Rumble Fish
 3532,The Rules of Attraction,25702,The Rules of Attraction
+1231,The Wrong Man,25736,The Wrong Man
 1255,Rudy,25742,Rudy
 2843,Ruby Sparks,25790,Ruby Sparks
 529,Secrets & Lies,25805,Secrets & Lies
@@ -1636,45 +2245,65 @@ ltable_id,ltable_title,rtable_id,rtable_title
 1644,Wreck-It Ralph,25829,Wreck-It Ralph
 412,The Royal Tenenbaums,25874,The Royal Tenenbaums
 2407,The Secret of My Succe$s,25881,The Secret of My Success
+1606,The Secret of NIMH,25883,The Secret of Nimh
+3804,The Secret of Kells,25885,The Secret of Loch Ness
+2881,"To Sir, with Love",25917,To Sir With Love
+1335,To Live and Die in L.A.,25924,To Live and Die in L.A.
 2685,World's Greatest Dad,25933,World's Greatest Dad
 2217,The Secret Life of Walter Mitty,25934,The Secret Life of Walter Mitty
 2500,The World's Fastest Indian,25937,The World's Fastest Indian
 995,The World's End,25940,The World's End
 3659,World War Z,25944,World War Z
+355,To Kill a Mockingbird,25950,To Kill A Mockingbird
+491,To Have and Have Not,25953,To Have and Have Not
 3799,The Secret Garden,25960,The Secret Garden
+2564,The New World,25967,The World
 3626,The World Is Not Enough,25973,The World is Not Enough
+879,The World According to Garp,25977,The World According to Garp
 2251,Working Girl,25980,Working Girl
 1063,To Catch a Thief,25994,To Catch a Thief
 2239,To Die For,25995,To Die For
+3241,To Be or Not to Be,25998,To Be or Not to Be
 2410,Titus,26005,Titus
 3478,Secondhand Lions,26013,Secondhand Lions
 3177,Titan A.E.,26052,Titan A.E.
 426,Titanic,26059,Titanic
 3190,The Woodsman,26071,The Woodsman
+1139,Woodstock,26072,Woodstock
 1323,Roxanne,26078,Roxanne
 834,Rounders,26089,Rounders
 1466,Searching for Bobby Fischer,26113,Searching for Bobby Fischer
 2250,Searching for Sugar Man,26115,Searching for Sugar Man
 4263,Wonderland,26123,Wonderland
 1301,Tinker Tailor Soldier Spy,26147,Tinker Tailor Soldier Spy
+50,The Searchers,26149,The Searchers
 1185,Wonder Boys,26170,Wonder Boys
+3434,Tin Men,26184,Tin Men
 2683,Tin Cup,26189,Tin Cup
 4207,Timecop,26191,Timecop
 3484,Seabiscuit,26200,Seabiscuit
+2261,The Women,26205,The Women
 736,Rosemary's Baby,26215,Rosemary's Baby
+3529,Rooster Cogburn,26224,Rooster Cogburn
+211,Rope,26225,Rope
 4163,The Time Traveler's Wife,26231,The Time Traveler's Wife
 2497,A Time to Kill,26237,A Time to Kill
 2304,Sea of Love,26243,Sea of Love
 295,Se7en,26255,Se7en
+2190,Woman of the Year,26260,Woman of the Year
 936,Room,26272,Room
 3386,The Rookie,26277,The Rookie
 858,Scrooged,26293,Scrooged
+4022,Scrooge,26294,Scrooge
+1130,Time Bandits,26316,Time Bandits
+558,Time After Time,26318,Time After Time
 1355,Ronin,26321,Ronin
 4278,Scream 2,26337,Scream 2
 1689,Scream,26339,Scream
 2194,The Wolverine,26351,The Wolverine
 3007,Romy and Michele's High School Reunion,26354,Romy and Michele's High School Reunion
 237,Scott Pilgrim vs. the World,26377,Scott Pilgrim vs. The World
+3321,Wolfen,26380,Wolfen
 2339,Romeo and Juliet,26394,Romeo and Juliet (1968)
 776,The Wolf of Wall Street,26397,The Wolf of Wall Street
 3068,Tightrope,26406,Tightrope
@@ -1683,14 +2312,21 @@ ltable_id,ltable_title,rtable_id,rtable_title
 4009,Wolf,26422,Wolf
 2380,Tigerland,26433,Tigerland
 1751,Romancing the Stone,26470,Romancing the Stone
+2118,Wizards,26505,Wizards
+115,The Wizard of Oz,26507,The Wizard of Oz
+2175,Rollerball,26518,Rollerball
 2071,School Ties,26539,School Ties
 1786,School of Rock,26545,School of Rock
 452,Witness,26550,Witness
 1861,Role Models,26562,Role Models
+1812,Thunderbolt and Lightfoot,26581,Thunderbolt and Lightfoot
 3550,Thunderheart,26582,Thunderheart
 506,Schindler's List,26591,Schindler's List
 1478,Scent of a Woman,26594,Scent of a Woman
+3712,Without a Clue,26595,Without a Clue
+1010,Withnail & I,26599,Withnail & I
 3226,With Honors,26605,With Honors
+1262,Roger & Me,26610,Roger & Me
 2584,Roger Dodger,26614,Roger Dodger
 432,Thunderball,26621,Thunderball
 3462,The Witches,26649,The Witches
@@ -1702,14 +2338,18 @@ ltable_id,ltable_title,rtable_id,rtable_title
 1143,Rocky II,26674,Rocky 2
 1142,Rocky,26676,Rocky
 2646,Throw Momma from the Train,26678,Throw Momma From the Train
+584,Scarface,26702,Scarface
 1480,The Rocketeer,26718,The Rocketeer
 2803,RocknRolla,26721,RocknRolla
+1622,Scanners,26748,Scanners
 2472,A Scanner Darkly,26752,A Scanner Darkly
 1207,Winter's Bone,26767,Winter's Bone
 1109,The Rock,26775,The Rock
+2393,Three O'Clock High,26785,Three Oâ€™Clock High
 2568,The Three Musketeers,26789,The Three Musketeers
 77,Say Anything...,26806,Say Anythingâ€¦
 1468,Three Kings,26837,Three Kings
+269,Three Days of the Condor,26840,Three Days of the Condor
 2724,Saw,26851,Saw
 4007,The Wings of the Dove,26866,The Wings of the Dove
 3781,Robot & Frank,26880,Robot & Frank
@@ -1720,25 +2360,31 @@ ltable_id,ltable_title,rtable_id,rtable_title
 796,RoboCop,26922,RoboCop
 1055,Robin Hood: Men in Tights,26928,Robin Hood: Men in Tights
 1195,Robin Hood: Prince of Thieves,26929,Robin Hood: Prince of Thieves
+1030,Robin Hood,26930,Robin Hood
 2233,Saved!,26952,Saved!
+3338,Robin and Marian,26964,Robin and Marian
 3498,Predators,26967,Predators
 1756,Rob Roy,26976,Rob Roy
 1410,Thor: The Dark World,26987,Thor: The Dark World
 610,Thor,26989,Thor
 2979,The Savages,26990,The Savages
+666,Winchester '73,27010,Winchester '73
 1809,Win Win,27017,Win Win
 4142,Road Trip,27027,Road Trip
 1217,The Thomas Crown Affair,27035,The Thomas Crown Affair
 2937,The Thomas Crown Affair,27036,The Thomas Crown Affair
 1931,Saturday Night Fever,27049,Saturday Night Fever
+679,Willy Wonka & the Chocolate Factory,27057,Willy Wonka & the Chocolate Factory
 1646,Willow,27064,Willow
 1226,Road to Perdition,27073,Road to Perdition
 1282,The Road,27120,The Road
 1808,Road House,27163,Road House
+225,This Is Spinal Tap,27178,This is Spinal Tap
 1054,This Is the End,27182,This is the End
 2692,The River Wild,27207,The River Wild
 2470,The River,27212,The River
 1239,A River Runs Through It,27215,A River Runs Through It
+2991,This Film Is Not Yet Rated,27220,This Film is Not Yet Rated
 4042,Wild Things,27232,Wild Things
 1844,This Boy's Life,27252,This Boy's Life
 3166,The Thirteenth Floor,27285,The Thirteenth Floor
@@ -1746,6 +2392,7 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3232,Thirteen,27289,Thirteen
 2174,Thirst,27291,Thirst
 2256,Thirteen Days,27292,Thirteen Days
+678,The Wild Bunch,27312,The Wild Bunch
 572,Wild at Heart,27317,Wild at Heart
 593,Risky Business,27324,Risky Business
 3937,Rising Sun,27329,Rising Sun
@@ -1753,29 +2400,49 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3567,The Santa Clause,27352,The Santa Clause
 3666,Wild,27371,Wild
 3469,Rise of the Guardians,27387,Rise of the Guardians
+440,The Thing,27389,The Thing
 651,Rise of the Planet of the Apes,27390,Rise of the Planet of the Apes
+1015,The Thief of Bagdad,27396,The Thief of Bagdad
 1280,The Thin Red Line,27398,The Thin Red Line
+908,Thief,27400,Thief
+2220,Sands of Iwo Jima,27416,Sands of Iwo Jima
+2462,They Were Expendable,27448,They Were Expendable
 1450,"They Shoot Horses, Don't They?",27449,"They Shoot Horses, Don't They?"
 282,They Live,27455,They Live
 872,The Sandlot,27460,The Sandlot
 3787,The Sand Pebbles,27464,The Sand Pebbles
+3213,Rio Lobo,27483,Rio Lobo
+371,Rio Bravo,27486,Rio Bravo
 2694,The Ring,27496,The Ring
+3711,"Ghidorah, the Three-Headed Monster",27514,"Ghidorah, the Three-Headed Monster"
+3807,San Francisco,27516,San Francisco
+846,The Right Stuff,27541,The Right Stuff
 730,There's Something About Mary,27551,There's Something About Mary
 8,There Will Be Blood,27560,There Will Be Blood
+384,Who's Afraid of Virginia Woolf?,27576,Who's Afraid of Virginia Wolf?
 2931,The Whole Nine Yards,27587,The Whole Nine Yards
 2880,The Theory of Everything,27614,The Theory of Everything
+1869,Them!,27616,Them!
 1188,Thelma & Louise,27620,Thelma & Louise
 277,Who Framed Roger Rabbit,27649,Who Framed Roger Rabbit?
 4093,Ride with the Devil,27654,Ride With the Devil
+1237,Salvador,27685,Salvador
+2728,White Zombie,27699,White Zombie
 4137,White Squall,27703,White Squall
+4049,That's Entertainment!,27729,That's Entertainment
 3089,The Salton Sea,27734,The Salton Sea
+3585,Richard Pryor: Live on the Sunset Strip,27759,Richard Pryor Live on the Sunset Strip
 1978,Richard III,27767,Richard III
 1260,That Thing You Do!,27775,That Thing You Do!
 2015,White Men Can't Jump,27806,White Men Can't Jump
 3777,The Saint,27842,The Saint
+3155,White Dog,27849,White Dog
+1361,White Christmas,27855,White Christmas
 2078,Revolutionary Road,27868,Revolutionary Road
 1868,Reversal of Fortune,27921,Reversal of Fortune
+2399,Revenge of the Pink Panther,27923,Revenge of the Pink Panther
 518,The Texas Chain Saw Massacre,27930,The Texas Chainsaw Massacre
+2390,The Texas Chainsaw Massacre 2,27931,The Texas Chainsaw Massacre 2
 394,Safety Last!,27941,Safety Last!
 1349,Safety Not Guaranteed,27943,Safety Not Guaranteed
 3189,While You Were Sleeping,27947,While You Were Sleeping
@@ -1785,19 +2452,28 @@ ltable_id,ltable_title,rtable_id,rtable_title
 157,The Revenant,27980,The Revenant
 2743,Safe,27988,Safe
 2453,Where the Wild Things Are,28010,Where the Wild Things Are
+2856,Where the Buffalo Roam,28044,Where the Buffalo Roam
+3268,Terror Train,28076,Terror Train
+616,Sabrina,28082,Sabrina
 3260,Sabrina,28084,Sabrina
 2695,When We Were Kings,28098,When We Were Kings
+2029,Return to Oz,28101,Return to Oz
 3714,Return to Me,28106,Return to Me
+2425,The Return of the Pink Panther,28143,The Return of the Pink Panther
+434,The Return of the Living Dead,28146,The Return of the Living Dead
+2662,Return of the Living Dead II,28147,Return of the Living Dead Part II
 1165,Terms of Endearment,28159,Terms of Endearment
 779,The Terminator,28161,The Terminator
 3418,Terminator 3: Rise of the Machines,28168,Terminator 3: Rise of the Machines
 473,When Harry Met Sally...,28181,When Harry Met Sallyâ€¦
 2442,The Terminal,28202,The Terminal
+3516,When a Stranger Calls,28206,When a Stranger Calls
 905,"What's Up, Doc?",28218,"What's Up, Doc?"
 2294,Restrepo,28230,Restrepo
 3897,Tequila Sunrise,28244,Tequila Sunrise
 1703,What's Eating Gilbert Grape,28250,What's Eating Gilbert Grape
 1792,Tender Mercies,28284,Tender Mercies
+1505,The Tenant,28287,The Tenant
 4237,Tenacious D in The Pick of Destiny,28292,Tenacious D in: The Pick of Destiny
 961,The Ten Commandments,28319,The Ten Commandments
 230,Reservoir Dogs,28341,Reservoir Dogs
@@ -1805,14 +2481,19 @@ ltable_id,ltable_title,rtable_id,rtable_title
 2241,The Rescuers,28347,The Rescuers
 3378,The Rescuers Down Under,28348,The Rescuers Down Under
 2669,What Dreams May Come,28369,What Dreams May Come
+526,Requiem for a Dream,28382,Requiem for a Dream
+1420,Repo Man,28385,Repo Man
 1561,What About Bob?,28405,What About Bob?
 2782,The Replacements,28416,The Replacements
 3538,The Replacement Killers,28417,The Replacement Killers
 2541,Rent,28433,Rent
 3353,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,28440,Teenage Mutant Ninja Turtles II: The Secret of the Ooze
+1179,Westworld,28443,Westworld
 1318,Wet Hot American Summer,28448,Wet Hot American Summer
 1053,Teenage Mutant Ninja Turtles,28471,Teenage Mutant Ninja Turtles
+2059,Teen Wolf,28479,Teen Wolf
 493,West Side Story,28481,West Side Story
+1993,Remo Williams: The Adventure Begins,28496,Remo Williams: The Adventure Begins
 3921,We're the Millers,28497,We're the Millers
 1320,Remember the Titans,28509,Remember the Titans
 3690,Wendy and Lucy,28523,Wendy and Lucy
@@ -1838,40 +2519,57 @@ ltable_id,ltable_title,rtable_id,rtable_title
 1535,Wedding Crashers,28753,Wedding Crashers
 2572,Redbelt,28765,Redbelt
 2964,Red State,28768,Red State
+4111,Red Sonja,28771,Red Sonja
 2323,Tango & Cash,28786,Tango & Cash
 3429,We Were Soldiers,28792,We Were Soldiers
 1427,Tangled,28797,Tangled
+780,The Red Shoes,28801,The Red Shoes
+617,Red River,28809,Red River
 3493,We Bought a Zoo,28841,We Bought a Zoo
 2447,Talladega Nights: The Ballad of Ricky Bobby,28856,Talladega Nights: The Ballad of Ricky Bobby
 3334,Red Heat,28882,Red Heat
 3198,Red Dragon,28889,Red Dragon
+2167,Talk Radio,28890,Talk Radio
 1972,Wayne's World 2,28902,Wayne's World 2
 188,Wayne's World,28903,Wayne's World
 3136,The Way We Were,28905,The Way We Were
+1562,Red Dawn,28913,Red Dawn
+4244,Red Cliff II,28918,Red Cliff
 3885,Tales from the Darkside: The Movie,28921,Tales from the Darkside: The Movie
 2989,Tales from the Crypt: Demon Knight,28924,Tales from the Crypt: Demon Knight
 1503,The Talented Mr. Ripley,28928,The Talented Mr. Ripley
 2108,The Way of the Gun,28934,The Way of the Gun
 1570,The Way Way Back,28936,The Way Way Back
+3020,Waxwork,28941,Waxwork
 2467,RED,28959,Red
+74,The Taking of Pelham One Two Three,28966,The Taking of Pelham One Two Three
 2326,The Waterboy,28982,The Waterboy
 474,Watchmen,29009,Watchmen
+1264,Take the Money and Run,29031,Take The Money And Run
 1681,Take Shelter,29036,Take Shelter
+501,Rebecca,29078,Rebecca
+118,Rear Window,29081,Rear Window
 1939,Reality Bites,29085,Reality Bites
 3958,Real Steel,29094,Real Steel
 91,The Warriors,29109,The Warriors
+884,Real Genius,29117,Real Genius
 4205,Tae Guk Gi: The Brotherhood of War,29133,Tae Guik Gi: The Brotherhood of War
 818,Warrior,29149,Warrior
 2518,The Reader,29157,The Reader
+1208,Re-Animator,29164,Re-Animator
+1286,WarGames,29182,WarGames
 3956,Warm Bodies,29183,Warm Bodies
 2855,Ray,29196,Ray
+4140,Raw Deal,29197,Raw Deal
 1366,Ravenous,29233,Ravenous
 398,Ratatouille,29250,Ratatouille
+3248,War of the Worlds,29260,War of the Planets
 2543,The War of the Roses,29263,The War of the Roses
 3248,War of the Worlds,29264,War of the Worlds
 2464,War Horse,29271,War Horse
 4259,Rare Exports: A Christmas Tale,29279,Rare Exports: A Christmas Tale
 3803,Ransom,29318,Ransom
+2959,Von Ryan's Express,29329,Von Ryan's Express
 1269,Volver,29333,Volver
 375,The Usual Suspects,29347,The Usual Suspects
 3620,The Wanderers,29353,The Wanderers
@@ -1895,6 +2593,7 @@ ltable_id,ltable_title,rtable_id,rtable_title
 3758,Walk Hard: The Dewey Cox Story,29607,Walk Hard: The Dewey Cox Story
 4085,Raising Cain,29635,Raising Cain
 292,Raising Arizona,29638,Raising Arizona
+3545,Vision Quest,29640,Vision Quest
 2404,Waking Ned Devine,29670,Waking Ned Devine
 882,Waking Life,29674,Waking Life
 1787,Zoolander,29686,Zoolander
@@ -1906,10 +2605,13 @@ ltable_id,ltable_title,rtable_id,rtable_title
 2746,Waiting...,29802,Waiting...
 346,Wait Until Dark,29804,Wait Until Dark
 173,Zombieland,29819,Zombieland
+1072,Raging Bull,29824,Raging Bull
 2450,Wag the Dog,29863,Wag the Dog
 1336,Zodiac,29882,Zodiac
 3199,Radio Flyer,29895,Radio Flyer
+1380,Radio Days,29898,Radio Days
 3728,The Village,29908,The Village
+3439,The Vikings,29915,The Vikings
 2254,Rachel Getting Married,30016,Rachel Getting Married
 3009,A View to a Kill,30031,A View to a Kill
 2084,Zero Effect,30063,Zero Effect
@@ -1917,10 +2619,13 @@ ltable_id,ltable_title,rtable_id,rtable_title
 763,Zero Dark Thirty,30073,Zero Dark Thirty
 3687,Rabbit-Proof Fence,30089,Rabbit-Proof Fence
 2252,Rabbit Hole,30094,Rabbit Hole
+212,Videodrome,30101,Videodrome
 416,Zelig,30136,Zelig
 4055,Your Friends & Neighbors,30142,Your Friends and Neighbors
 3901,The Young Victoria,30153,The Young Victoria
+3481,Victory,30166,Victory
 1519,Young Sherlock Holmes,30207,Young Sherlock Holmes
+1753,Young Mr. Lincoln,30215,Young Mr. Lincoln
 1477,Vicky Cristina Barcelona,30219,Vicky Cristina Barcelona
 3526,Young Guns II,30245,Young Guns II
 1783,Young Guns,30247,Young Guns
@@ -1931,12 +2636,17 @@ ltable_id,ltable_title,rtable_id,rtable_title
 2496,Young Adult,30301,Young Adult
 1136,You Only Live Twice,30338,You Only Live Twice
 3415,Very Bad Things,30344,Very Bad Things
+406,Vertigo,30345,Vertigo
+605,You Can't Take It with You,30369,You Can't Take It With You
 1534,You Can Count on Me,30403,You Can Count on Me
 92,The Verdict,30418,The Verdict
 3057,Vera Drake,30419,Vera Drake
+2344,Vera Cruz,30422,Vera Cruz
 3264,Universal Soldier,30452,Universal Soldier
+263,Yojimbo,30466,Yojimbo
 2046,United 93,30481,United 93
 2517,Velvet Goldmine,30499,Velvet Goldmine
+2314,The Uninvited,30509,The Uninvited
 1840,Yi Yi,30520,Yi Yi
 403,Unforgiven,30546,Unforgiven
 3497,Yes Man,30579,Yes Man
@@ -1949,10 +2659,15 @@ ltable_id,ltable_title,rtable_id,rtable_title
 2842,Vampires,30698,Vampires
 913,Under the Skin,30745,Under the Bed
 2696,Under Siege,30754,Under Siege
+2466,Valley Girl,30757,Valley Girl
 3224,Valkyrie,30762,Valkyrie
+639,Yankee Doodle Dandy,30779,Yankee Doodle Dandy
+3204,Uncommon Valor,30819,Uncommon Valor
 1190,Uncle Buck,30843,Uncle Buck
 121,Unbreakable,30863,Unbreakable
 1488,The Unbearable Lightness of Being,30876,The Unbearable Lightness of Being
+739,UHF,30922,UHF
+3961,U2: Rattle and Hum,30939,U2: Rattle and Hum
 3614,U.S. Marshals,30944,U.S. Marshals
 2817,X-Men: The Last Stand,31002,X-Men: The Last Stand
 3408,X-Men Origins: Wolverine,31003,X-Men Origins: Wolverine

@@ -1,8 +1,8 @@
-# 839 Project Stage 3: IMDB and Movie Numbers Web Page Movie Entity Matching.
+# 839 Project Stage 4: IMDB and Movie Numbers Web Page Movie Entity Matching.
 
 ## Introduction
 
-This project follows the guidelines for AnHai's CS 839 Data Analysis course for project stage 3, and contains an entity matcher model (a random forrest), along with the blocking code, train and test data set, and extra corpus files used for performing featurization.
+This project follows the guidelines for AnHai's CS 839 Data Analysis course for project stage 4, and contains an entity matcher model (a random forrest), along with the blocking code, train and test data set, and extra corpus files used for performing featurization.
 
 BONUS COMMENTS: 
 0) I used conda install -c anaconda pyqt to install the pyqt5 dependencies with anaconda 2 on MacOS Sierra.
