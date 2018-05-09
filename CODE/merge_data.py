@@ -1,18 +1,9 @@
-
-# coding: utf-8
-
-# In[1]:
-
 import sys
 import string
 import re
 import math
 import pandas as pd
 
-
-# In[2]:
-
-# Get the paths
 path_A = '../DATA/imdb3_neg_nan.csv'
 path_B = '../DATA/thenumbers3_neg_nan.csv'
 path_M = '../DATA/MatchPredctionsOnAllTuplePairs.csv'
@@ -20,10 +11,7 @@ A = pd.read_csv(path_A)
 B = pd.read_csv(path_B)
 Matches = pd.read_csv(path_M)
 print(len(Matches))
-Matches.head()
-
-
-# In[3]:
+#Matches.head()
 
 def merge_title(title1, title2):
     #take the longer title
@@ -34,25 +22,16 @@ def merge_title(title1, title2):
     res = title1 if l1>l2 else title2
     return res
 
-
-# In[4]:
-
 def merge_year(year1, year2):
     #if value form B exists, take it else from A
     if year2.item() != -1:
         return year2.item()
     return year1.item()
 
-
-# In[5]:
-
 def merge_mpaa(mpaa1,mpaa2):
     mpaa1=mpaa1.item()
     mpaa2=mpaa2.item()
     return mpaa1 if mpaa1 != "Not Rated" and mpaa1 != "-1" else mpaa2
-
-
-# In[6]:
 
 def merge_runtime(rt1,rt2):
     rt1=rt1.item()
@@ -65,9 +44,6 @@ def merge_runtime(rt1,rt2):
     rt = rt1 if rt1>rt2 else rt2
     return str(rt)+" min"
 
-
-# In[7]:
-
 def split_and_union(g1,g2):
     g1 = g1.lower()
     g2= g2.lower()
@@ -78,19 +54,12 @@ def split_and_union(g1,g2):
     
     return ','.join(final_list)
 
-
-# In[8]:
-
 def merge_genres(g1,g2):
     g1=g1.item()
     g2=g2.item()
     if g1=="-1": return g2
     if g2=="-1": return g1
     return split_and_union(g1,g2)
-    
-
-
-# In[9]:
 
 def merge_director_name(dir1,dir2):
     dir1=dir1.item()
@@ -99,18 +68,12 @@ def merge_director_name(dir1,dir2):
     if dir2=="-1": return dir1
     return split_and_union(dir1,dir2)
 
-
-# In[10]:
-
 def merge_stars(stars1, stars2):
     stars1=stars1.item()
     stars2=stars2.item()
     if stars1=="-1": return stars2
     if stars2=="-1": return stars1
     return split_and_union(stars1,stars2)
-
-
-# In[11]:
 
 def merge_gross(grossL, grossR):
     grossL=grossL.item()
@@ -134,10 +97,6 @@ def merge_gross(grossL, grossR):
         grossLint *= multfact
     f = grossLint if grossLint>grossRint else grossRint
     return "$"+str(f)
-    
-
-
-# In[12]:
 
 def combine(lt,rt):
     
@@ -151,9 +110,6 @@ def combine(lt,rt):
     h=merge_gross(lt.gross,rt.gross)
     return (lt.id.item(),a,b,c,d,e,f,g,h)
 
-
-# In[13]:
-
 #pick each tuple from '../DATA/MatchPredctionsOnAllTuplePairs.csv' and take out corresponding
 #tuples from A and B
 finalist=[]
@@ -166,16 +122,5 @@ for row in Matches.itertuples():
     tup = combine(ltup,rtup)
     finalist.append(tup)
 df = pd.DataFrame(finalist, columns=['id', 'title', 'year', 'mpaa','runtime','genres','director','stars','gross'])
+#Save to file
 df.to_csv('../DATA/integrated_table.csv', index=False)
-    
-
-
-# In[14]:
-
-df.head()
-
-
-# In[15]:
-
-len(df)
-

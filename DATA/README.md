@@ -27,8 +27,8 @@ The two tables with the IDs for tuples are stored in the files imdb2.csv and the
   <li>The attributes store the same information as in imdb2.csv except missing values for columns like stars(i.e actors) , description etc</li>
 </ul>
 </p>
- 
-<b>[AllTuplePairs.csv](DATA/AllTuplePairs.csv)</b> - This file contains all tuple pairs that remain after the blocking step.
-<b>[G.csv](DATA/G.csv)</b> - file that lists all tuple pairs in the sample taken, together with the labels, one label per each tuple pair
-<b>[I.csv](DATA/I.csv)</b> - This file contains training set partition of G.
-<b>[J.csv](DATA/J.csv)</b> - This file contains test set partition of G.
+
+<b>[Table A](DATA/imdb3_neg_nan.csv)</b> - The data from IMDB website.
+<b>[Table B](DATA/thenumbers3_neg_nan.csv)</b> - The data from TheNumbers website.
+<b>[Table M](DATA/MatchPredctionsOnAllTuplePairs.csv)</b> - All matches between table A and B, mentioned with ID and title.
+<b>[Table E](DATA/integrated_table.csv)</b> - Final integrated table using matches from M
