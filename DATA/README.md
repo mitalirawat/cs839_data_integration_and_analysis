@@ -1,6 +1,10 @@
-The two tables with the IDs for tuples are stored in the files imdb2.csv and thenumbers2.csv. 
-<p>
-<b>[imdb2.csv](DATA/imdb2.csv)</b>
+<b>[Table A](DATA/imdb3_neg_nan.csv)</b> - The data from IMDB website.<br>
+<b>[Table B](DATA/thenumbers3_neg_nan.csv)</b> - The data from TheNumbers website.<br>
+<b>[Table M](DATA/MatchPredctionsOnAllTuplePairs.csv)</b> - All matches between table A and B, mentioned with ID and title.<br>
+<b>[Table E](DATA/integrated_table.csv)</b> - Final integrated table using matches from M<br>
+ 
+
+<b>[A](DATA/imdb3_neg_nan.csv)</b>
 <ul>
   <li>The number of tuples are 4291.</li>
   <li>The attributes store movie information are
@@ -19,16 +23,11 @@ The two tables with the IDs for tuples are stored in the files imdb2.csv and the
    </ul>
    </li>
 </ul>
-</p>
-<p>
-<b>[thenumbers2.csv](DATA/thenumbers2.csv)</b>
+
+<b>[B](DATA/thenumbers3_neg_nan.csv)</b>
 <ul>
   <li>The number of tuples are 31006.</li>
   <li>The attributes store the same information as in imdb2.csv except missing values for columns like stars(i.e actors) , description etc</li>
 </ul>
-</p>
 
-<b>[Table A](DATA/imdb3_neg_nan.csv)</b> - The data from IMDB website.<br>
-<b>[Table B](DATA/thenumbers3_neg_nan.csv)</b> - The data from TheNumbers website.<br>
-<b>[Table M](DATA/MatchPredctionsOnAllTuplePairs.csv)</b> - All matches between table A and B, mentioned with ID and title.<br>
-<b>[Table E](DATA/integrated_table.csv)</b> - Final integrated table using matches from M<br>
+
