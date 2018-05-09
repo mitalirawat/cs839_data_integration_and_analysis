@@ -98,8 +98,8 @@ def merge_gross(grossL, grossR):
     f = grossLint if grossLint>grossRint else grossRint
     return "$"+str(f)
 
-def combine(lt,rt):
-    
+# Combine a pair of tuple into a single tuple
+def combine(lt,rt):    
     a = merge_title(lt.title,rt.title)
     b = merge_year(lt.year,rt.year)
     c=merge_mpaa(lt.mpaa,rt.mpaa)
@@ -110,8 +110,8 @@ def combine(lt,rt):
     h=merge_gross(lt.gross,rt.gross)
     return (lt.id.item(),a,b,c,d,e,f,g,h)
 
-#pick each tuple from '../DATA/MatchPredctionsOnAllTuplePairs.csv' and take out corresponding
-#tuples from A and B
+#pick each matching tuple pair from M and take out corresponding
+#tuples from A and B, and pass them through combine method above
 finalist=[]
 for row in Matches.itertuples():
     #print(row)
@@ -120,6 +120,7 @@ for row in Matches.itertuples():
     ltup = A.loc[(A["id"]==lid)]
     rtup = B.loc[(B["id"]==rid)]
     tup = combine(ltup,rtup)
+    # Append to final table E
     finalist.append(tup)
 df = pd.DataFrame(finalist, columns=['id', 'title', 'year', 'mpaa','runtime','genres','director','stars','gross'])
 #Save to file

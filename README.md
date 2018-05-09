@@ -8,7 +8,7 @@ This project follows the guidelines for AnHai's CS 839 Data Analysis course for 
 
 * [IMDB Website](http://www.imdb.com/list/ls032600534)
 * [Movie Numbers Website](https://www.the-numbers.com/movies/\#tab=letter)
-* [Table E.CSV](DATA/integrated_table.csv)
+* [Integrated Table E](DATA/integrated_table.csv)
 * [Matches between table A nad B](DATA/MatchPredctionsOnAllTuplePairs.csv)
 * [Merging Script](CODE/merge_data.py)
 * [Pdf Detailing The Project](839_Project_Stage_4.pdf) - Pdf describing the process merging, integration ana analysis in detail
