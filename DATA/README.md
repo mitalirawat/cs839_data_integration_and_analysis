@@ -28,7 +28,7 @@ The two tables with the IDs for tuples are stored in the files imdb2.csv and the
 </ul>
 </p>
 
-<b>[Table A](DATA/imdb3_neg_nan.csv)</b> - The data from IMDB website.
-<b>[Table B](DATA/thenumbers3_neg_nan.csv)</b> - The data from TheNumbers website.
-<b>[Table M](DATA/MatchPredctionsOnAllTuplePairs.csv)</b> - All matches between table A and B, mentioned with ID and title.
-<b>[Table E](DATA/integrated_table.csv)</b> - Final integrated table using matches from M
+<b>[Table A](DATA/imdb3_neg_nan.csv)</b> - The data from IMDB website.<br>
+<b>[Table B](DATA/thenumbers3_neg_nan.csv)</b> - The data from TheNumbers website.<br>
+<b>[Table M](DATA/MatchPredctionsOnAllTuplePairs.csv)</b> - All matches between table A and B, mentioned with ID and title.<br>
+<b>[Table E](DATA/integrated_table.csv)</b> - Final integrated table using matches from M<br>
