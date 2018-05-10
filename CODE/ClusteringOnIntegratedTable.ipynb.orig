@@ -3,7 +3,9 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "metadata": {},
+   "metadata": {
+    "collapsed": true
+   },
    "outputs": [],
    "source": [
     "import pandas as pd\n",
@@ -19,7 +21,9 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "metadata": {},
+   "metadata": {
+    "collapsed": true
+   },
    "outputs": [],
    "source": [
     "def PCA_KMeans(pca_count=0,kmean_count=20):\n",
@@ -35,7 +39,9 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "metadata": {},
+   "metadata": {
+    "collapsed": true
+   },
    "outputs": [],
    "source": [
     "genres = [c for c in dt2.columns if ('G_' in c and '/' not in c)]\n",
@@ -45,7 +51,9 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "metadata": {},
+   "metadata": {
+    "collapsed": true
+   },
    "outputs": [],
    "source": [
     "counts_g = [dt2[c].sum() for c in genres]\n",
@@ -59,6 +67,12 @@
   {
    "cell_type": "code",
    "execution_count": 5,
+<<<<<<< Updated upstream
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+=======
    "metadata": {},
    "outputs": [
     {
@@ -102,6 +116,7 @@
      "output_type": "display_data"
     }
    ],
+>>>>>>> Stashed changes
    "source": [
     "from matplotlib import pyplot as plt\n",
     "f1 = plt.figure(1,figsize=(18,6))\n",
@@ -115,11 +130,11 @@
     "f3 = plt.figure(3,figsize=(18,6))\n",
     "#plt.subplot(2,2,3)\n",
     "plt.bar(genres,gross_g)\n",
-    "plt.title('Average revenue (in Millons of USD) of movies in various genres')\n",
+    "plt.title('Average revenue (in Billons of USD) of movies in various genres')\n",
     "f4 = plt.figure(4,figsize=(10,6))\n",
     "#plt.subplot(2,2,4)\n",
     "plt.bar(rats,gross_m)\n",
-    "plt.title('Average revenue (in Millons of USD) of movies in various MPAA classes')\n",
+    "plt.title('Average revenue (in Billons of USD) of movies in various MPAA classes')\n",
     "f1.savefig('../DATA/f1.png')\n",
     "f2.savefig('../DATA/f2.png')\n",
     "f3.savefig('../DATA/f3.png')\n",
